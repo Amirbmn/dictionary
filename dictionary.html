@@ -610,155 +610,20 @@
     </div>
 
     <script>
-        // Dictionary data
-        let dictionaryData = [
-            {
-                "word": "serendipity",
-                "partOfSpeech": "noun",
-                "pronunciation": "/ˌserənˈdipədē/",
-                "definitions": [
-                    "The occurrence and development of events by chance in a happy or beneficial way.",
-                    "A pleasant surprise or fortunate accident."
-                ],
-                "examples": [
-                    "A fortunate stroke of serendipity brought them together.",
-                    "The discovery was pure serendipity."
-                ]
-            },
-            {
-                "word": "salad",
-                "persianMeaning":"سالاد",
-                "partOfSpeech": "noun",
-                "pronunciation": "/ˈsæləd/",
-                "definitions": [
-                    "A dish consisting of mixed, mostly raw vegetables, typically dressed with a vinaigrette or other dressing.",
-                    "A mixture of various ingredients, often served cold."
-                ],
-                "examples": [
-                    "She prepared a fresh salad with lettuce, tomatoes, and cucumbers.",
-                    "The fruit salad was a refreshing dessert."
-                ]
-            },
-            {
-                "word": "sauce",
-                "persianMeaning":"سس",
-                "partOfSpeech": "noun",
-                "pronunciation": "/sɔːs/",
-                "definitions": [
-                    "A liquid, cream, or semi-solid food served on or used in preparing other foods.",
-                    "A condiment or relish for food."
-                ],
-                "examples": [
-                    "The pasta was served with a rich tomato sauce.",
-                    "He added a spicy sauce to the dish."
-                ]
-            },
-            {
-                "word": "mellifluous",
-                "partOfSpeech": "adjective",
-                "pronunciation": "/məˈliflo͞oəs/",
-                "definitions": [
-                    "Having a smooth, flowing, and sweet sound.",
-                    "Pleasingly smooth and musical to hear."
-                ],
-                "examples": [
-                    "Her mellifluous voice captivated the audience.",
-                    "The mellifluous tones of the violin filled the room."
-                ]
-            },
-            {
-                "word": "wanderlust",
-                "partOfSpeech": "noun",
-                "pronunciation": "/ˈwändərˌləst/",
-                "definitions": [
-                    "A strong desire to travel.",
-                    "An impulse to wander or travel the world."
-                ],
-                "examples": [
-                    "Her wanderlust took her to distant lands.",
-                    "The travel documentary awakened his wanderlust."
-                ]
-            },
-            {
-                "word": "luminous",
-                "partOfSpeech": "adjective",
-                "pronunciation": "/ˈlo͞oməs/",
-                "definitions": [
-                    "Giving off light; bright or shining.",
-                    "Clearly expressed or easily understood."
-                ],
-                "examples": [
-                    "The luminous moon lit up the night sky.",
-                    "Her luminous explanation made the concept clear."
-                ]
-            },
-            {
-                "word": "eloquent",
-                "partOfSpeech": "adjective",
-                "pronunciation": "/ˈeləkwənt/",
-                "definitions": [
-                    "Fluent or persuasive in speaking or writing.",
-                    "Clearly expressing or indicating something."
-                ],
-                "examples": [
-                    "The speaker delivered an eloquent address.",
-                    "Her eloquent silence spoke volumes."
-                ]
-            },
-            {
-                "word": "sonder",
-                "partOfSpeech": "noun",
-                "pronunciation": "/ˈsändər/",
-                "definitions": [
-                    "The realization that each random passerby is living a life as vivid and complex as your own.",
-                    "A moment of awareness about the depth of other people's experiences."
-                ],
-                "examples": [
-                    "Standing in the busy street, she experienced a profound sense of sonder.",
-                    "The concept of sonder reminds us of our shared humanity."
-                ]
-            },
-            {
-                "word": "petrichor",
-                "partOfSpeech": "noun",
-                "pronunciation": "/ˈpetrɪkɔːr/",
-                "definitions": [
-                    "The pleasant smell of earth after rain.",
-                    "The distinctive scent that accompanies the first rain after a long dry spell."
-                ],
-                "examples": [
-                    "The petrichor filled the air after the summer storm.",
-                    "She loved the petrichor that came with the morning rain."
-                ]
-            },
-            {
-                "word": "resplendent",
-                "partOfSpeech": "adjective",
-                "pronunciation": "/rɪˈsplendənt/",
-                "definitions": [
-                    "Attractive and impressive through being richly colorful or sumptuous.",
-                    "Shining brilliantly; characterized by splendor."
-                ],
-                "examples": [
-                    "The ballroom was resplendent with golden decorations.",
-                    "She looked resplendent in her evening gown."
-                ]
-            },
-            {
-                "word": "effervescent",
-                "partOfSpeech": "adjective",
-                "pronunciation": "/ˌefərˈves(ə)nt/",
-                "definitions": [
-                    "Vivacious and enthusiastic.",
-                    "Giving off bubbles; fizzy."
-                ],
-                "examples": [
-                    "Her effervescent personality lit up the room.",
-                    "The effervescent drink tickled his nose."
-                ]
-            }
-        ];
+     
+   
 
+     let dictionaryData;
+
+fetch('dictionary.json')
+  .then(response => response.json())
+  .then(data => {
+    dictionaryData = data;
+    // You can call any function that depends on dictionaryData here
+  })
+  .catch(error => console.error('Error loading JSON:', error));
+
+    
         let searchTimeout;
         let focusedSuggestionIndex = -1;
 
