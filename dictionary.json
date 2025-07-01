@@ -1,0 +1,3914 @@
+[
+    {
+        "word": "serendipity",
+        "persianMeaning": "اتفاق خوشایند",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌserənˈdipədē/",
+        "definitions": [
+            "The occurrence and development of events by chance in a happy or beneficial way.",
+            "A pleasant surprise or fortunate accident."
+        ],
+        "examples": [
+            "A fortunate stroke of serendipity brought them together.",
+            "The discovery was pure serendipity."
+        ]
+    },
+    {
+        "word": "salad",
+        "persianMeaning": "سالاد",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsæləd/",
+        "definitions": [
+            "A dish consisting of mixed, mostly raw vegetables, typically dressed with a vinaigrette or other dressing.",
+            "A mixture of various ingredients, often served cold."
+        ],
+        "examples": [
+            "She prepared a fresh salad with lettuce, tomatoes, and cucumbers.",
+            "The fruit salad was a refreshing dessert."
+        ]
+    },
+    {
+        "word": "sauce",
+        "persianMeaning": "سس",
+        "partOfSpeech": "noun",
+        "pronunciation": "/sɔːs/",
+        "definitions": [
+            "A liquid, cream, or semi-solid food served on or used in preparing other foods.",
+            "A condiment or relish for food."
+        ],
+        "examples": [
+            "The pasta was served with a rich tomato sauce.",
+            "He added a spicy sauce to the dish."
+        ]
+    },
+    {
+        "word": "mellifluous",
+        "persianMeaning": "دلنشین",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/məˈliflo͞oəs/",
+        "definitions": [
+            "Having a smooth, flowing, and sweet sound.",
+            "Pleasingly smooth and musical to hear."
+        ],
+        "examples": [
+            "Her mellifluous voice captivated the audience.",
+            "The mellifluous tones of the violin filled the room."
+        ]
+    },
+    {
+        "word": "wanderlust",
+        "persianMeaning": "اشتیاق به سفر",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈwändərˌləst/",
+        "definitions": [
+            "A strong desire to travel.",
+            "An impulse to wander or travel the world."
+        ],
+        "examples": [
+            "Her wanderlust took her to distant lands.",
+            "The travel documentary awakened his wanderlust."
+        ]
+    },
+    {
+        "word": "luminous",
+        "persianMeaning": "درخشان",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈlo͞oməs/",
+        "definitions": [
+            "Giving off light; bright or shining.",
+            "Clearly expressed or easily understood."
+        ],
+        "examples": [
+            "The luminous moon lit up the night sky.",
+            "Her luminous explanation made the concept clear."
+        ]
+    },
+    {
+        "word": "eloquent",
+        "persianMeaning": "فصیح",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈeləkwənt/",
+        "definitions": [
+            "Fluent or persuasive in speaking or writing.",
+            "Clearly expressing or indicating something."
+        ],
+        "examples": [
+            "The speaker delivered an eloquent address.",
+            "Her eloquent silence spoke volumes."
+        ]
+    },
+    {
+        "word": "sonder",
+        "persianMeaning": "درک زندگی دیگران",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsändər/",
+        "definitions": [
+            "The realization that each random passerby is living a life as vivid and complex as your own.",
+            "A moment of awareness about the depth of other people's experiences."
+        ],
+        "examples": [
+            "Standing in the busy street, she experienced a profound sense of sonder.",
+            "The concept of sonder reminds us of our shared humanity."
+        ]
+    },
+    {
+        "word": "petrichor",
+        "persianMeaning": "بوی خاک پس از باران",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpetrɪkɔːr/",
+        "definitions": [
+            "The pleasant smell of earth after rain.",
+            "The distinctive scent that accompanies the first rain after a long dry spell."
+        ],
+        "examples": [
+            "The petrichor filled the air after the summer storm.",
+            "She loved the petrichor that came with the morning rain."
+        ]
+    },
+    {
+        "word": "resplendent",
+        "persianMeaning": "پرشکوه",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/rɪˈsplendənt/",
+        "definitions": [
+            "Attractive and impressive through being richly colorful or sumptuous.",
+            "Shining brilliantly; characterized by splendor."
+        ],
+        "examples": [
+            "The ballroom was resplendent with golden decorations.",
+            "She looked resplendent in her evening gown."
+        ]
+    },
+    {
+        "word": "effervescent",
+        "persianMeaning": "پرجنب‌وجوش",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌefərˈves(ə)nt/",
+        "definitions": [
+            "Vivacious and enthusiastic.",
+            "Giving off bubbles; fizzy."
+        ],
+        "examples": [
+            "Her effervescent personality lit up the room.",
+            "The effervescent drink tickled his nose."
+        ]
+    },
+    {
+        "word": "ephemeral",
+        "persianMeaning": "موقت",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪˈfemərəl/",
+        "definitions": [
+            "Lasting for a very short time.",
+            "Transitory or fleeting."
+        ],
+        "examples": [
+            "The beauty of the cherry blossoms is ephemeral.",
+            "Their happiness was ephemeral, fading quickly."
+        ]
+    },
+    {
+        "word": "nostalgia",
+        "persianMeaning": "نوستالژی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/nɒˈstældʒə/",
+        "definitions": [
+            "A sentimental longing for the past.",
+            "Wistful affection for a period or place with happy personal associations."
+        ],
+        "examples": [
+            "Listening to old songs filled her with nostalgia.",
+            "The old house brought back a wave of nostalgia."
+        ]
+    },
+    {
+        "word": "ubiquitous",
+        "persianMeaning": "همه‌جا حاضر",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/juːˈbɪkwɪtəs/",
+        "definitions": [
+            "Present, appearing, or found everywhere.",
+            "Seemingly omnipresent."
+        ],
+        "examples": [
+            "Smartphones are ubiquitous in modern society.",
+            "The brand’s logo was ubiquitous in the city."
+        ]
+    },
+    {
+        "word": "ameliorate",
+        "persianMeaning": "بهبود بخشیدن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈmiːljəreɪt/",
+        "definitions": [
+            "To make something better or improve.",
+            "To enhance or alleviate a condition."
+        ],
+        "examples": [
+            "They worked to ameliorate the living conditions in the village.",
+            "The new policy will ameliorate employee satisfaction."
+        ]
+    },
+    {
+        "word": "serene",
+        "persianMeaning": "آرام",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/səˈriːn/",
+        "definitions": [
+            "Calm, peaceful, and untroubled.",
+            "Tranquil or undisturbed."
+        ],
+        "examples": [
+            "The serene lake reflected the mountains perfectly.",
+            "Her serene demeanor calmed everyone around her."
+        ]
+    },
+    {
+        "word": "epiphany",
+        "persianMeaning": "الهام ناگهانی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪˈpɪfəni/",
+        "definitions": [
+            "A sudden realization or insight.",
+            "A moment of clarity or understanding."
+        ],
+        "examples": [
+            "She had an epiphany about her career path.",
+            "The solution came to him in an epiphany."
+        ]
+    },
+    {
+        "word": "pristine",
+        "persianMeaning": "بکر",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈprɪstiːn/",
+        "definitions": [
+            "In its original condition; unspoiled.",
+            "Clean and fresh as if new."
+        ],
+        "examples": [
+            "The pristine forest was untouched by humans.",
+            "Her dress remained pristine after the event."
+        ]
+    },
+    {
+        "word": "quixotic",
+        "persianMeaning": "خیال‌پردازانه",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/kwɪkˈsɒtɪk/",
+        "definitions": [
+            "Unrealistically optimistic or impractical.",
+            "Pursuing noble but unattainable goals."
+        ],
+        "examples": [
+            "His quixotic dreams of world peace inspired many.",
+            "The plan was quixotic and unlikely to succeed."
+        ]
+    },
+    {
+        "word": "resilience",
+        "persianMeaning": "تاب‌آوری",
+        "partOfSpeech": "noun",
+        "pronunciation": "/rɪˈzɪliəns/",
+        "definitions": [
+            "The capacity to recover quickly from difficulties.",
+            "The ability to adapt in the face of adversity."
+        ],
+        "examples": [
+            "Her resilience helped her overcome many challenges.",
+            "The community showed resilience after the disaster."
+        ]
+    },
+    {
+        "word": "vivid",
+        "persianMeaning": "زنده",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈvɪvɪd/",
+        "definitions": [
+            "Producing powerful feelings or strong, clear images in the mind.",
+            "Bright or intense in color."
+        ],
+        "examples": [
+            "Her vivid imagination created fantastical stories.",
+            "The vivid colors of the painting stood out."
+        ]
+    },
+    {
+        "word": "benevolent",
+        "persianMeaning": "نیکوکار",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/bəˈnevələnt/",
+        "definitions": [
+            "Well-meaning and kindly.",
+            "Expressing goodwill or kindness."
+        ],
+        "examples": [
+            "The benevolent donor funded the school’s library.",
+            "Her benevolent smile reassured the team."
+        ]
+    },
+    {
+        "word": "contemplate",
+        "persianMeaning": "تأمل کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkɒntəmpleɪt/",
+        "definitions": [
+            "To think deeply or carefully about something.",
+            "To consider or plan."
+        ],
+        "examples": [
+            "She sat quietly to contemplate her future.",
+            "He contemplated moving to a new city."
+        ]
+    },
+    {
+        "word": "euphoria",
+        "persianMeaning": "سرخوشی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/juːˈfɔːriə/",
+        "definitions": [
+            "A feeling of intense happiness or excitement.",
+            "A state of elation."
+        ],
+        "examples": [
+            "Winning the race filled her with euphoria.",
+            "The concert left the crowd in a state of euphoria."
+        ]
+    },
+    {
+        "word": "intricate",
+        "persianMeaning": "پیچیده",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɪntrɪkət/",
+        "definitions": [
+            "Very complicated or detailed.",
+            "Having many complex parts."
+        ],
+        "examples": [
+            "The intricate design of the jewelry was stunning.",
+            "The puzzle was intricate and challenging."
+        ]
+    },
+    {
+        "word": "tranquil",
+        "persianMeaning": "آرام",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈtræŋkwɪl/",
+        "definitions": [
+            "Free from disturbance; calm.",
+            "Peaceful and quiet."
+        ],
+        "examples": [
+            "The tranquil garden was perfect for meditation.",
+            "The evening was tranquil, with no noise."
+        ]
+    },
+    {
+        "word": "zealous",
+        "persianMeaning": "پرشور",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈzeləs/",
+        "definitions": [
+            "Having or showing zeal; enthusiastic.",
+            "Fervently devoted to a cause."
+        ],
+        "examples": [
+            "She was a zealous supporter of the charity.",
+            "His zealous efforts improved the project."
+        ]
+    },
+    {
+        "word": "candid",
+        "persianMeaning": "صادق",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkændɪd/",
+        "definitions": [
+            "Truthful and straightforward; frank.",
+            "Open and honest in expression."
+        ],
+        "examples": [
+            "His candid feedback helped improve the design.",
+            "She gave a candid account of the events."
+        ]
+    },
+    {
+        "word": "diligent",
+        "persianMeaning": "کوشا",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdɪlɪdʒənt/",
+        "definitions": [
+            "Having or showing care and conscientiousness in one’s work.",
+            "Persistent in effort."
+        ],
+        "examples": [
+            "The diligent student earned top grades.",
+            "Her diligent work led to a promotion."
+        ]
+    },
+    {
+        "word": "empathy",
+        "persianMeaning": "همدلی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈempəθi/",
+        "definitions": [
+            "The ability to understand and share the feelings of another.",
+            "Emotional identification with another’s perspective."
+        ],
+        "examples": [
+            "Her empathy made her a great listener.",
+            "He showed empathy toward his struggling friend."
+        ]
+    },
+    {
+        "word": "fortitude",
+        "persianMeaning": "استقامت",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈfɔːrtɪtjuːd/",
+        "definitions": [
+            "Strength or courage in the face of adversity.",
+            "Mental or emotional resilience."
+        ],
+        "examples": [
+            "She faced the challenge with great fortitude.",
+            "His fortitude inspired the team to persevere."
+        ]
+    },
+    {
+        "word": "gregarious",
+        "persianMeaning": "اجتماعی",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɡrɪˈɡeəriəs/",
+        "definitions": [
+            "Fond of company; sociable.",
+            "Enjoying the company of others."
+        ],
+        "examples": [
+            "His gregarious nature made him popular at parties.",
+            "The gregarious host welcomed everyone warmly."
+        ]
+    },
+    {
+        "word": "harmony",
+        "persianMeaning": "هماهنگی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈhɑːrməni/",
+        "definitions": [
+            "The quality of forming a pleasing and consistent whole.",
+            "Agreement or concord."
+        ],
+        "examples": [
+            "The choir sang in perfect harmony.",
+            "The team worked in harmony to complete the project."
+        ]
+    },
+    {
+        "word": "illuminate",
+        "persianMeaning": "روشن کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪˈluːmɪneɪt/",
+        "definitions": [
+            "To light up or make bright.",
+            "To clarify or explain."
+        ],
+        "examples": [
+            "The candles illuminated the room softly.",
+            "Her lecture illuminated the complex topic."
+        ]
+    },
+    {
+        "word": "jubilant",
+        "persianMeaning": "شادمان",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdʒuːbɪlənt/",
+        "definitions": [
+            "Showing great joy or triumph.",
+            "Exultant or celebratory."
+        ],
+        "examples": [
+            "The jubilant crowd cheered for the victory.",
+            "She felt jubilant after passing the exam."
+        ]
+    },
+    {
+        "word": "kindle",
+        "persianMeaning": "افروختن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkɪndl/",
+        "definitions": [
+            "To light or set on fire.",
+            "To arouse or inspire an emotion."
+        ],
+        "examples": [
+            "He kindled the fire with dry wood.",
+            "The speech kindled a sense of hope."
+        ]
+    },
+    {
+        "word": "languid",
+        "persianMeaning": "سست",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈlæŋɡwɪd/",
+        "definitions": [
+            "Lacking in vigor or vitality; weak.",
+            "Slow or relaxed in manner."
+        ],
+        "examples": [
+            "The languid summer afternoon made everyone sleepy.",
+            "Her languid movements suggested exhaustion."
+        ]
+    },
+    {
+        "word": "mirth",
+        "persianMeaning": "شادی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/mɜːrθ/",
+        "definitions": [
+            "Amusement, especially as expressed in laughter.",
+            "Joyfulness or merriment."
+        ],
+        "examples": [
+            "The room was filled with mirth during the celebration.",
+            "His jokes sparked mirth among the guests."
+        ]
+    },
+    {
+        "word": "opulent",
+        "persianMeaning": "مجلل",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɒpjʊlənt/",
+        "definitions": [
+            "Rich and luxurious or lavish.",
+            "Abundant or plentiful."
+        ],
+        "examples": [
+            "The opulent palace was adorned with gold.",
+            "Her opulent lifestyle impressed everyone."
+        ]
+    },
+    {
+        "word": "placid",
+        "persianMeaning": "آرام",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈplæsɪd/",
+        "definitions": [
+            "Not easily upset or excited; calm.",
+            "Peaceful or serene."
+        ],
+        "examples": [
+            "The placid lake was perfect for kayaking.",
+            "His placid demeanor soothed the tense meeting."
+        ]
+    },
+    {
+        "word": "quaint",
+        "persianMeaning": "جذاب و قدیمی",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/kweɪnt/",
+        "definitions": [
+            "Attractively unusual or old-fashioned.",
+            "Charming in a traditional way."
+        ],
+        "examples": [
+            "The quaint village had cobblestone streets.",
+            "She found a quaint little café in the town."
+        ]
+    },
+    {
+        "word": "radiant",
+        "persianMeaning": "درخشان",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈreɪdiənt/",
+        "definitions": [
+            "Sending out light; shining brightly.",
+            "Displaying great joy or vitality."
+        ],
+        "examples": [
+            "The radiant sun warmed the valley.",
+            "Her radiant smile lit up the room."
+        ]
+    },
+    {
+        "word": "solitude",
+        "persianMeaning": "تنهایی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈsɒlɪtjuːd/",
+        "definitions": [
+            "The state of being alone or isolated.",
+            "A lonely or uninhabited place."
+        ],
+        "examples": [
+            "She sought solitude to clear her mind.",
+            "The cabin offered solitude in the wilderness."
+        ]
+    },
+    {
+        "word": "tenacious",
+        "persianMeaning": "سرسخت",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/təˈneɪʃəs/",
+        "definitions": [
+            "Holding fast; persistent.",
+            "Determined or stubborn in pursuit of a goal."
+        ],
+        "examples": [
+            "Her tenacious efforts led to success.",
+            "The tenacious athlete never gave up."
+        ]
+    },
+    {
+        "word": "vibrant",
+        "persianMeaning": "پرجنب‌وجوش",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈvaɪbrənt/",
+        "definitions": [
+            "Full of energy and enthusiasm.",
+            "Bright and striking in color or sound."
+        ],
+        "examples": [
+            "The vibrant festival attracted many visitors.",
+            "Her vibrant personality made her stand out."
+        ]
+    },
+    {
+        "word": "whimsical",
+        "persianMeaning": "عجیب و غریب",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈwɪmzɪkəl/",
+        "definitions": [
+            "Playfully quaint or fanciful.",
+            "Acting or behaving in a capricious manner."
+        ],
+        "examples": [
+            "The whimsical decor delighted the children.",
+            "Her whimsical ideas added fun to the project."
+        ]
+    },
+    {
+        "word": "zenith",
+        "persianMeaning": "اوج",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈzenɪθ/",
+        "definitions": [
+            "The highest point above the observer.",
+            "The peak or culmination of something."
+        ],
+        "examples": [
+            "The sun reached its zenith at noon.",
+            "Her career reached its zenith with the award."
+        ]
+    },
+    {
+        "word": "abate",
+        "persianMeaning": "کاهش یافتن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈbeɪt/",
+        "definitions": [
+            "To become less intense or widespread.",
+            "To reduce in amount, degree, or intensity."
+        ],
+        "examples": [
+            "The storm began to abate by evening.",
+            "His anger abated after the apology."
+        ]
+    },
+    {
+        "word": "aberration",
+        "persianMeaning": "انحراف",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌæbəˈreɪʃn/",
+        "definitions": [
+            "A departure from what is normal, usual, or expected.",
+            "A deviation from the proper or expected course."
+        ],
+        "examples": [
+            "The result was an aberration from the norm.",
+            "Her behavior was an aberration due to stress."
+        ]
+    },
+    {
+        "word": "abhor",
+        "persianMeaning": "نفرت داشتن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əbˈhɔːr/",
+        "definitions": [
+            "To regard with disgust and hatred.",
+            "To detest or loathe."
+        ],
+        "examples": [
+            "She abhorred cruelty in any form.",
+            "He abhorred the idea of dishonesty."
+        ]
+    },
+    {
+        "word": "abject",
+        "persianMeaning": "فرومایه",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈæbdʒekt/",
+        "definitions": [
+            "Extremely bad, unpleasant, or degrading.",
+            "Completely without pride or dignity."
+        ],
+        "examples": [
+            "They lived in abject poverty.",
+            "His abject apology was heartfelt."
+        ]
+    },
+    {
+        "word": "abscond",
+        "persianMeaning": "فرار کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əbˈskɒnd/",
+        "definitions": [
+            "To leave hurriedly and secretly, typically to avoid detection.",
+            "To run away with something, especially money."
+        ],
+        "examples": [
+            "The thief absconded with the jewels.",
+            "He absconded from the meeting unnoticed."
+        ]
+    },
+    {
+        "word": "abundant",
+        "persianMeaning": "فراوان",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/əˈbʌndənt/",
+        "definitions": [
+            "Existing or available in large quantities; plentiful.",
+            "Having plenty of something."
+        ],
+        "examples": [
+            "The region has abundant natural resources.",
+            "Her garden was abundant with flowers."
+        ]
+    },
+    {
+        "word": "accolade",
+        "persianMeaning": "تقدیر",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈækəleɪd/",
+        "definitions": [
+            "An award or privilege granted as a special honor.",
+            "An expression of praise or admiration."
+        ],
+        "examples": [
+            "She received an accolade for her research.",
+            "The film earned many accolades from critics."
+        ]
+    },
+    {
+        "word": "acquiesce",
+        "persianMeaning": "پذیرفتن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˌækwiˈes/",
+        "definitions": [
+            "To accept something reluctantly but without protest.",
+            "To agree or consent passively."
+        ],
+        "examples": [
+            "He acquiesced to the new rules.",
+            "She acquiesced despite her reservations."
+        ]
+    },
+    {
+        "word": "adamant",
+        "persianMeaning": "سخت",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈædəmənt/",
+        "definitions": [
+            "Refusing to be persuaded or to change one’s mind.",
+            "Firm or unyielding in opinion."
+        ],
+        "examples": [
+            "She was adamant about her decision.",
+            "He remained adamant despite the arguments."
+        ]
+    },
+    {
+        "word": "admonish",
+        "persianMeaning": "تذکر دادن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ədˈmɒnɪʃ/",
+        "definitions": [
+            "To warn or reprimand someone firmly.",
+            "To advise or urge earnestly."
+        ],
+        "examples": [
+            "The teacher admonished the student for being late.",
+            "He was admonished to be more careful."
+        ]
+    },
+    {
+        "word": "adversity",
+        "persianMeaning": "مصیبت",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ədˈvɜːrsəti/",
+        "definitions": [
+            "Difficulties or misfortune.",
+            "A state of hardship or affliction."
+        ],
+        "examples": [
+            "She overcame adversity to succeed.",
+            "The team faced adversity but stayed united."
+        ]
+    },
+    {
+        "word": "aesthetic",
+        "persianMeaning": "زیبایی‌شناسی",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/esˈθetɪk/",
+        "definitions": [
+            "Concerned with beauty or the appreciation of beauty.",
+            "Pleasing in appearance."
+        ],
+        "examples": [
+            "The aesthetic appeal of the painting was undeniable.",
+            "Her aesthetic sense guided the decor."
+        ]
+    },
+    {
+        "word": "affable",
+        "persianMeaning": "خوش‌برخورد",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈæfəbl/",
+        "definitions": [
+            "Friendly, good-natured, or easy to talk to.",
+            "Cordial and approachable."
+        ],
+        "examples": [
+            "The affable host made everyone feel welcome.",
+            "His affable nature won many friends."
+        ]
+    },
+    {
+        "word": "alleviate",
+        "persianMeaning": "تسکین دادن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈliːvieɪt/",
+        "definitions": [
+            "To make suffering, deficiency, or a problem less severe.",
+            "To relieve or lessen."
+        ],
+        "examples": [
+            "The medicine alleviated her pain.",
+            "Charity efforts helped alleviate poverty."
+        ]
+    },
+    {
+        "word": "allure",
+        "persianMeaning": "فریبندگی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈl(j)ʊr/",
+        "definitions": [
+            "The quality of being powerfully and mysteriously attractive.",
+            "A strong attraction or appeal."
+        ],
+        "examples": [
+            "The allure of the city drew many tourists.",
+            "Her charm and allure captivated everyone."
+        ]
+    },
+    {
+        "word": "ambivalent",
+        "persianMeaning": "دوگانه",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/æmˈbɪvələnt/",
+        "definitions": [
+            "Having mixed feelings or contradictory ideas about something.",
+            "Uncertain or unable to decide."
+        ],
+        "examples": [
+            "She felt ambivalent about the decision.",
+            "His ambivalent attitude confused everyone."
+        ]
+    },
+    {
+        "word": "ameliorate",
+        "persianMeaning": "بهبود بخشیدن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈmiːljəreɪt/",
+        "definitions": [
+            "To make something better or improve.",
+            "To enhance or alleviate a condition."
+        ],
+        "examples": [
+            "They worked to ameliorate the living conditions in the village.",
+            "The new policy will ameliorate employee satisfaction."
+        ]
+    },
+    {
+        "word": "amiable",
+        "persianMeaning": "دوستانه",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈeɪmiəbl/",
+        "definitions": [
+            "Having or displaying a friendly and pleasant manner.",
+            "Cordial and sociable."
+        ],
+        "examples": [
+            "Her amiable personality made her popular.",
+            "The amiable conversation eased tensions."
+        ]
+    },
+    {
+        "word": "animosity",
+        "persianMeaning": "دشمنی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌænɪˈmɒsəti/",
+        "definitions": [
+            "Strong hostility or antagonism.",
+            "A feeling of ill will or resentment."
+        ],
+        "examples": [
+            "There was animosity between the two teams.",
+            "He harbored no animosity toward his rival."
+        ]
+    },
+    {
+        "word": "anomaly",
+        "persianMeaning": "ناهنجاری",
+        "partOfSpeech": "noun",
+        "pronunciation": "/əˈnɒməli/",
+        "definitions": [
+            "Something that deviates from what is standard or expected.",
+            "An irregularity or abnormality."
+        ],
+        "examples": [
+            "The result was an anomaly in the data.",
+            "Her behavior was an anomaly in the group."
+        ]
+    },
+    {
+        "word": "antithesis",
+        "persianMeaning": "تضاد",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ænˈtɪθəsɪs/",
+        "definitions": [
+            "A person or thing that is the direct opposite of someone or something else.",
+            "A contrast or opposition between two things."
+        ],
+        "examples": [
+            "His calm nature was the antithesis of her energy.",
+            "The plan was the antithesis of their goals."
+        ]
+    },
+    {
+        "word": "apathy",
+        "persianMeaning": "بی‌تفاوتی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈæpəθi/",
+        "definitions": [
+            "Lack of interest, enthusiasm, or concern.",
+            "Indifference or passivity."
+        ],
+        "examples": [
+            "Voter apathy affected the election turnout.",
+            "Her apathy toward the project was noticeable."
+        ]
+    },
+    {
+        "word": "ardent",
+        "persianMeaning": "پرشور",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɑːrdnt/",
+        "definitions": [
+            "Very enthusiastic or passionate.",
+            "Burning or fervent."
+        ],
+        "examples": [
+            "He was an ardent supporter of the cause.",
+            "Her ardent love for music was evident."
+        ]
+    },
+    {
+        "word": "articulate",
+        "persianMeaning": "بیان کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɑːrˈtɪkjuleɪt/",
+        "definitions": [
+            "To express an idea or feeling fluently and coherently.",
+            "To pronounce something clearly and distinctly."
+        ],
+        "examples": [
+            "She articulated her thoughts clearly.",
+            "He articulated each word with precision."
+        ]
+    },
+    {
+        "word": "ascend",
+        "persianMeaning": "صعود کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈsend/",
+        "definitions": [
+            "To go up or climb.",
+            "To rise to a higher point or level."
+        ],
+        "examples": [
+            "They ascended the steep mountain.",
+            "Her career ascended rapidly."
+        ]
+    },
+    {
+        "word": "aspire",
+        "persianMeaning": "آرزو داشتن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/əˈspaɪər/",
+        "definitions": [
+            "To have a strong desire or ambition to achieve something.",
+            "To aim for a goal."
+        ],
+        "examples": [
+            "She aspired to become a doctor.",
+            "He aspired to greatness in his field."
+        ]
+    },
+    {
+        "word": "astute",
+        "persianMeaning": "زیرک",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/əˈstuːt/",
+        "definitions": [
+            "Having or showing an ability to accurately assess situations or people.",
+            "Shrewd or perceptive."
+        ],
+        "examples": [
+            "His astute observations impressed the team.",
+            "She made an astute investment decision."
+        ]
+    },
+    {
+        "word": "audacious",
+        "persianMeaning": "جسور",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɔːˈdeɪʃəs/",
+        "definitions": [
+            "Showing a willingness to take bold risks.",
+            "Recklessly daring or fearless."
+        ],
+        "examples": [
+            "His audacious plan surprised everyone.",
+            "The audacious explorer ventured into unknown lands."
+        ]
+    },
+    {
+        "word": "austere",
+        "persianMeaning": "ساده و سخت",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɔːˈstɪr/",
+        "definitions": [
+            "Severe or strict in manner, attitude, or appearance.",
+            "Plain or unadorned."
+        ],
+        "examples": [
+            "The austere room had minimal furnishings.",
+            "His austere demeanor intimidated others."
+        ]
+    },
+    {
+        "word": "authentic",
+        "persianMeaning": "اصیل",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɔːˈθentɪk/",
+        "definitions": [
+            "Of undisputed origin; genuine.",
+            "True to one’s own personality or spirit."
+        ],
+        "examples": [
+            "The painting was confirmed as authentic.",
+            "Her authentic emotions touched everyone."
+        ]
+    },
+    {
+        "word": "benevolence",
+        "persianMeaning": "نیک‌خواهی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/bəˈnevələns/",
+        "definitions": [
+            "The quality of being well-meaning; kindness.",
+            "An act of kindness or generosity."
+        ],
+        "examples": [
+            "Her benevolence helped many in need.",
+            "The charity was known for its benevolence."
+        ]
+    },
+    {
+        "word": "bewilder",
+        "persianMeaning": "گیج کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/bɪˈwɪldər/",
+        "definitions": [
+            "To cause someone to become perplexed and confused.",
+            "To puzzle or confound."
+        ],
+        "examples": [
+            "The complex instructions bewildered him.",
+            "Her sudden change bewildered everyone."
+        ]
+    },
+    {
+        "word": "bliss",
+        "persianMeaning": "سعادت",
+        "partOfSpeech": "noun",
+        "pronunciation": "/blɪs/",
+        "definitions": [
+            "Perfect happiness; great joy.",
+            "A state of spiritual blessedness."
+        ],
+        "examples": [
+            "The couple was in bliss after their wedding.",
+            "The peaceful retreat was pure bliss."
+        ]
+    },
+    {
+        "word": "bolster",
+        "persianMeaning": "تقویت کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈboʊlstər/",
+        "definitions": [
+            "To support or strengthen.",
+            "To provide encouragement or reinforcement."
+        ],
+        "examples": [
+            "The new evidence bolstered their case.",
+            "Her kind words bolstered his confidence."
+        ]
+    },
+    {
+        "word": "brevity",
+        "persianMeaning": "کوتاهی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈbrevəti/",
+        "definitions": [
+            "Concise and exact use of words in writing or speech.",
+            "Shortness of duration."
+        ],
+        "examples": [
+            "The brevity of his speech was appreciated.",
+            "She valued brevity in communication."
+        ]
+    },
+    {
+        "word": "buoyant",
+        "persianMeaning": "شاداب",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈbɔɪənt/",
+        "definitions": [
+            "Cheerful or optimistic.",
+            "Able to float or rise to the top."
+        ],
+        "examples": [
+            "Her buoyant personality lifted everyone’s spirits.",
+            "The buoyant raft floated easily."
+        ]
+    },
+    {
+        "word": "camaraderie",
+        "persianMeaning": "رفاقت",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌkæməˈrɑːdəri/",
+        "definitions": [
+            "Mutual trust and friendship among people who spend a lot of time together.",
+            "A sense of comradeship."
+        ],
+        "examples": [
+            "The team’s camaraderie led to success.",
+            "Their camaraderie made the trip enjoyable."
+        ]
+    },
+    {
+        "word": "capricious",
+        "persianMeaning": "دمدمی",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/kəˈprɪʃəs/",
+        "definitions": [
+            "Given to sudden and unaccountable changes of mood or behavior.",
+            "Impulsive or unpredictable."
+        ],
+        "examples": [
+            "Her capricious nature made planning difficult.",
+            "The weather was capricious that day."
+        ]
+    },
+    {
+        "word": "catalyst",
+        "persianMeaning": "کاتالیزور",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkætəlɪst/",
+        "definitions": [
+            "Something that causes an important event to happen.",
+            "A substance that increases the rate of a chemical reaction."
+        ],
+        "examples": [
+            "The new policy was a catalyst for change.",
+            "Her speech was a catalyst for action."
+        ]
+    },
+    {
+        "word": "caustic",
+        "persianMeaning": "تند و تیز",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkɔːstɪk/",
+        "definitions": [
+            "Sarcastic in a scathing and bitter way.",
+            "Capable of burning or corroding."
+        ],
+        "examples": [
+            "His caustic remarks upset the team.",
+            "The caustic substance required careful handling."
+        ]
+    },
+    {
+        "word": "charisma",
+        "persianMeaning": "جذابیت",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəˈrɪzmə/",
+        "definitions": [
+            "Compelling attractiveness or charm that inspires devotion in others.",
+            "A divinely conferred power or talent."
+        ],
+        "examples": [
+            "Her charisma made her a natural leader.",
+            "The speaker’s charisma captivated the audience."
+        ]
+    },
+    {
+        "word": "chivalrous",
+        "persianMeaning": "جوانمرد",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈʃɪvəlrəs/",
+        "definitions": [
+            "Courteous and gallant, especially toward women.",
+            "Having the qualities of chivalry, such as courage and honor."
+        ],
+        "examples": [
+            "His chivalrous behavior impressed everyone.",
+            "The knight was known for his chivalrous deeds."
+        ]
+    },
+    {
+        "word": "clandestine",
+        "persianMeaning": "مخفی",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/klænˈdestɪn/",
+        "definitions": [
+            "Kept secret or done secretively, especially because illicit.",
+            "Hidden or covert."
+        ],
+        "examples": [
+            "They held a clandestine meeting at midnight.",
+            "The clandestine operation was successful."
+        ]
+    },
+    {
+        "word": "coherent",
+        "persianMeaning": "منسجم",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/koʊˈhɪrənt/",
+        "definitions": [
+            "Logical and consistent.",
+            "Sticking together or forming a unified whole."
+        ],
+        "examples": [
+            "Her argument was coherent and persuasive.",
+            "The essay was well-written and coherent."
+        ]
+    },
+    {
+        "word": "compassion",
+        "persianMeaning": "دلسوزی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kəmˈpæʃn/",
+        "definitions": [
+            "Sympathetic pity and concern for the sufferings of others.",
+            "A feeling of deep sympathy and sorrow."
+        ],
+        "examples": [
+            "She showed compassion for the homeless.",
+            "His compassion touched everyone’s hearts."
+        ]
+    },
+    {
+        "word": "concur",
+        "persianMeaning": "موافقت کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kənˈkɜːr/",
+        "definitions": [
+            "To be in agreement or harmony.",
+            "To express agreement or assent."
+        ],
+        "examples": [
+            "I concur with your assessment.",
+            "The board concurred on the decision."
+        ]
+    },
+    {
+        "word": "conducive",
+        "persianMeaning": "مؤثر",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/kənˈdjuːsɪv/",
+        "definitions": [
+            "Making a certain situation or outcome likely or possible.",
+            "Contributing to or promoting."
+        ],
+        "examples": [
+            "The quiet room was conducive to studying.",
+            "Her attitude was conducive to teamwork."
+        ]
+    },
+    {
+        "word": "confound",
+        "persianMeaning": "گیج کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kənˈfaʊnd/",
+        "definitions": [
+            "To cause surprise or confusion in someone.",
+            "To mix up or confuse."
+        ],
+        "examples": [
+            "The puzzle confounded even the experts.",
+            "His actions confounded everyone."
+        ]
+    },
+    {
+        "word": "congenial",
+        "persianMeaning": "سازگار",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/kənˈdʒiːniəl/",
+        "definitions": [
+            "Pleasant or agreeable because suited to one’s taste or inclination.",
+            "Friendly and sociable."
+        ],
+        "examples": [
+            "The congenial atmosphere made the event enjoyable.",
+            "He was a congenial colleague to work with."
+        ]
+    },
+    {
+        "word": "conscientious",
+        "persianMeaning": "باوجدان",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌkɒnʃiˈenʃəs/",
+        "definitions": [
+            "Wishing to do what is right, especially to do one’s work well.",
+            "Diligent and careful."
+        ],
+        "examples": [
+            "She was a conscientious worker.",
+            "His conscientious approach earned respect."
+        ]
+    },
+    {
+        "word": "contention",
+        "persianMeaning": "اختلاف",
+        "partOfSpeech": "noun",
+        "pronunciation": "/kənˈtenʃn/",
+        "definitions": [
+            "Heated disagreement.",
+            "An assertion or claim, especially in an argument."
+        ],
+        "examples": [
+            "The issue caused much contention among the group.",
+            "His contention was that the plan wouldn’t work."
+        ]
+    },
+    {
+        "word": "convivial",
+        "persianMeaning": "شاد و دوستانه",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/kənˈvɪviəl/",
+        "definitions": [
+            "Friendly, lively, and enjoyable.",
+            "Relating to or fond of social pleasures."
+        ],
+        "examples": [
+            "The convivial party lasted all night.",
+            "His convivial nature made him a great host."
+        ]
+    },
+    {
+        "word": "copious",
+        "persianMeaning": "فراوان",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkoʊpiəs/",
+        "definitions": [
+            "Abundant in supply or quantity.",
+            "Plentiful or profuse."
+        ],
+        "examples": [
+            "She took copious notes during the lecture.",
+            "The garden produced copious vegetables."
+        ]
+    },
+    {
+        "word": "cordial",
+        "persianMeaning": "صمیمی",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkɔːrdʒəl/",
+        "definitions": [
+            "Warm and friendly.",
+            "Heartfelt or sincere."
+        ],
+        "examples": [
+            "They received a cordial welcome from the hosts.",
+            "Her cordial invitation was appreciated."
+        ]
+    },
+    {
+        "word": "corroborate",
+        "persianMeaning": "تأیید کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kəˈrɒbəreɪt/",
+        "definitions": [
+            "To confirm or give support to a statement, theory, or finding.",
+            "To provide evidence for."
+        ],
+        "examples": [
+            "The witness corroborated her story.",
+            "The data corroborated the hypothesis."
+        ]
+    },
+    {
+        "word": "cosmopolitan",
+        "persianMeaning": "جهان‌وطنی",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌkɒzməˈpɒlɪtən/",
+        "definitions": [
+            "Familiar with and at ease in many different countries and cultures.",
+            "Having a worldwide scope or outlook."
+        ],
+        "examples": [
+            "The cosmopolitan city attracted diverse visitors.",
+            "Her cosmopolitan lifestyle was enviable."
+        ]
+    },
+    {
+        "word": "credence",
+        "persianMeaning": "اعتبار",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈkriːdns/",
+        "definitions": [
+            "Belief in or acceptance of something as true.",
+            "Credibility or plausibility."
+        ],
+        "examples": [
+            "The story lacked credence among the audience.",
+            "His credentials gave credence to his claims."
+        ]
+    },
+    {
+        "word": "cryptic",
+        "persianMeaning": "مرموز",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkrɪptɪk/",
+        "definitions": [
+            "Having a secret or hidden meaning; obscure.",
+            "Mysterious or enigmatic."
+        ],
+        "examples": [
+            "His cryptic message puzzled everyone.",
+            "The cryptic clues led to a treasure hunt."
+        ]
+    },
+    {
+        "word": "culminate",
+        "persianMeaning": "به اوج رسیدن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈkʌlmɪneɪt/",
+        "definitions": [
+            "To reach the highest point or final stage.",
+            "To come to a climax or completion."
+        ],
+        "examples": [
+            "The festival culminated in a grand fireworks display.",
+            "Her efforts culminated in a promotion."
+        ]
+    },
+    {
+        "word": "cursory",
+        "persianMeaning": "سرسری",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkɜːrsəri/",
+        "definitions": [
+            "Hasty and without attention to detail.",
+            "Not thorough or detailed."
+        ],
+        "examples": [
+            "A cursory glance revealed no issues.",
+            "His cursory review missed key details."
+        ]
+    },
+    {
+        "word": "daunt",
+        "persianMeaning": "ترساندن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɔːnt/",
+        "definitions": [
+            "To make someone feel intimidated or apprehensive.",
+            "To discourage or frighten."
+        ],
+        "examples": [
+            "The challenge did not daunt her.",
+            "The steep climb daunted the hikers."
+        ]
+    },
+    {
+        "word": "debonair",
+        "persianMeaning": "خوش‌لباس",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌdebəˈner/",
+        "definitions": [
+            "Confident, stylish, and charming.",
+            "Suave or sophisticated."
+        ],
+        "examples": [
+            "His debonair manner charmed everyone.",
+            "The debonair gentleman was well-liked."
+        ]
+    },
+    {
+        "word": "decadent",
+        "persianMeaning": "فاسد",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdekədənt/",
+        "definitions": [
+            "Characterized by or reflecting a state of moral or cultural decline.",
+            "Luxuriously self-indulgent."
+        ],
+        "examples": [
+            "The decadent dessert was irresistible.",
+            "The society was seen as decadent by some."
+        ]
+    },
+    {
+        "word": "deference",
+        "persianMeaning": "احترام",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdefərəns/",
+        "definitions": [
+            "Humble submission and respect.",
+            "Polite regard or consideration."
+        ],
+        "examples": [
+            "He showed deference to his elders.",
+            "The decision was made in deference to her wishes."
+        ]
+    },
+    {
+        "word": "deft",
+        "persianMeaning": "ماهر",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/deft/",
+        "definitions": [
+            "Neatly skillful and quick in one’s movements.",
+            "Clever or adept."
+        ],
+        "examples": [
+            "Her deft hands crafted a masterpiece.",
+            "His deft handling of the situation impressed all."
+        ]
+    },
+    {
+        "word": "delineate",
+        "persianMeaning": "ترسیم کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪˈlɪnieɪt/",
+        "definitions": [
+            "To describe or portray something precisely.",
+            "To outline or define."
+        ],
+        "examples": [
+            "She delineated the plan clearly.",
+            "The map delineated the boundaries."
+        ]
+    },
+    {
+        "word": "demure",
+        "persianMeaning": "متین",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/dɪˈmjʊr/",
+        "definitions": [
+            "Reserved, modest, and shy.",
+            "Affectedly or coyly decorous."
+        ],
+        "examples": [
+            "Her demure demeanor was charming.",
+            "She gave a demure smile during the meeting."
+        ]
+    },
+    {
+        "word": "denounce",
+        "persianMeaning": "محکوم کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪˈnaʊns/",
+        "definitions": [
+            "To publicly declare to be wrong or evil.",
+            "To inform against or accuse."
+        ],
+        "examples": [
+            "He denounced the corrupt officials.",
+            "The group denounced the unfair policy."
+        ]
+    },
+    {
+        "word": "deplete",
+        "persianMeaning": "تخلیه کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪˈpliːt/",
+        "definitions": [
+            "To use up the supply or resources of.",
+            "To reduce or exhaust."
+        ],
+        "examples": [
+            "The drought depleted the water reserves.",
+            "His energy was depleted after the race."
+        ]
+    },
+    {
+        "word": "depravity",
+        "persianMeaning": "فساد",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪˈprævəti/",
+        "definitions": [
+            "Moral corruption or wickedness.",
+            "A corrupt or depraved act."
+        ],
+        "examples": [
+            "The novel explored themes of human depravity.",
+            "His actions were seen as a sign of depravity."
+        ]
+    },
+    {
+        "word": "deride",
+        "persianMeaning": "تمسخر کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪˈraɪd/",
+        "definitions": [
+            "To express contempt for; ridicule.",
+            "To mock or scorn."
+        ],
+        "examples": [
+            "They derided his unconventional ideas.",
+            "Her efforts were derided by the critics."
+        ]
+    },
+    {
+        "word": "desolate",
+        "persianMeaning": "متروک",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdesələt/",
+        "definitions": [
+            "Deserted or uninhabited; barren.",
+            "Feeling or showing misery or loneliness."
+        ],
+        "examples": [
+            "The desolate landscape stretched endlessly.",
+            "She felt desolate after the loss."
+        ]
+    },
+    {
+        "word": "destitute",
+        "persianMeaning": "بی‌چیز",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdestɪtjuːt/",
+        "definitions": [
+            "Without the basic necessities of life.",
+            "Extremely poor or lacking."
+        ],
+        "examples": [
+            "The destitute family needed urgent help.",
+            "He was destitute after losing his job."
+        ]
+    },
+    {
+        "word": "detriment",
+        "persianMeaning": "زیان",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈdetrɪmənt/",
+        "definitions": [
+            "The state of being harmed or damaged.",
+            "A cause of harm or damage."
+        ],
+        "examples": [
+            "Skipping meals is to the detriment of your health.",
+            "The decision was a detriment to progress."
+        ]
+    },
+    {
+        "word": "dexterous",
+        "persianMeaning": "ماهر",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdekstərəs/",
+        "definitions": [
+            "Demonstrating neat skill, especially with the hands.",
+            "Clever or skillful."
+        ],
+        "examples": [
+            "Her dexterous fingers crafted intricate designs.",
+            "He was dexterous in solving problems."
+        ]
+    },
+    {
+        "word": "digress",
+        "persianMeaning": "منحرف شدن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/daɪˈɡres/",
+        "definitions": [
+            "To leave the main subject temporarily in speech or writing.",
+            "To wander or stray from the point."
+        ],
+        "examples": [
+            "He digressed to share a personal story.",
+            "The lecture digressed into unrelated topics."
+        ]
+    },
+    {
+        "word": "dilapidated",
+        "persianMeaning": "فرسوده",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/dɪˈlæpɪdeɪtɪd/",
+        "definitions": [
+            "In a state of disrepair or ruin due to age or neglect.",
+            "Run-down or decayed."
+        ],
+        "examples": [
+            "The dilapidated house needed repairs.",
+            "The old barn was dilapidated and unsafe."
+        ]
+    },
+    {
+        "word": "discerning",
+        "persianMeaning": "تیزبین",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/dɪˈsɜːrnɪŋ/",
+        "definitions": [
+            "Having or showing good judgment or insight.",
+            "Perceptive or discriminating."
+        ],
+        "examples": [
+            "Her discerning taste in art was admired.",
+            "The discerning critic noticed subtle flaws."
+        ]
+    },
+    {
+        "word": "discrepancy",
+        "persianMeaning": "ناسازگاری",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪsˈkrepənsi/",
+        "definitions": [
+            "A lack of compatibility or similarity between two or more facts.",
+            "An inconsistency or difference."
+        ],
+        "examples": [
+            "There was a discrepancy in the accounts.",
+            "The discrepancy between the reports was alarming."
+        ]
+    },
+    {
+        "word": "disdain",
+        "persianMeaning": "تحقیر",
+        "partOfSpeech": "noun",
+        "pronunciation": "/dɪsˈdeɪn/",
+        "definitions": [
+            "The feeling that someone or something is unworthy of one’s consideration or respect.",
+            "Contempt or scorn."
+        ],
+        "examples": [
+            "She looked at him with disdain.",
+            "His disdain for the idea was obvious."
+        ]
+    },
+    {
+        "word": "disparate",
+        "persianMeaning": "متفاوت",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈdɪspərət/",
+        "definitions": [
+            "Essentially different in kind; not allowing comparison.",
+            "Distinct or dissimilar."
+        ],
+        "examples": [
+            "Their disparate views led to conflict.",
+            "The disparate elements didn’t blend well."
+        ]
+    },
+    {
+        "word": "disseminate",
+        "persianMeaning": "نشر کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/dɪˈsemɪneɪt/",
+        "definitions": [
+            "To spread or disperse information widely.",
+            "To distribute or broadcast."
+        ],
+        "examples": [
+            "The organization disseminated the news quickly.",
+            "They disseminated flyers to promote the event."
+        ]
+    },
+    {
+        "word": "diverge",
+        "persianMeaning": "منحرف شدن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/daɪˈvɜːrdʒ/",
+        "definitions": [
+            "To separate and go in different directions.",
+            "To differ in opinion or character."
+        ],
+        "examples": [
+            "The paths diverged in the forest.",
+            "Their opinions diverged on the issue."
+        ]
+    },
+    {
+        "word": "diverse",
+        "persianMeaning": "متنوع",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/daɪˈvɜːrs/",
+        "definitions": [
+            "Showing a great deal of variety; very different.",
+            "Varied or distinct."
+        ],
+        "examples": [
+            "The team had diverse skill sets.",
+            "Her interests were diverse and unique."
+        ]
+    },
+    {
+        "word": "dogmatic",
+        "persianMeaning": "جزم‌اندیش",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/dɔːɡˈmætɪk/",
+        "definitions": [
+            "Inclined to lay down principles as incontrovertibly true.",
+            "Opinionated or inflexible."
+        ],
+        "examples": [
+            "His dogmatic views sparked debate.",
+            "She was dogmatic about her beliefs."
+        ]
+    },
+    {
+        "word": "ebullient",
+        "persianMeaning": "پرشور",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪˈbʌliənt/",
+        "definitions": [
+            "Cheerful and full of energy.",
+            "Exuberant or enthusiastic."
+        ],
+        "examples": [
+            "Her ebullient personality was infectious.",
+            "The crowd was ebullient after the victory."
+        ]
+    },
+    {
+        "word": "eccentric",
+        "persianMeaning": "عجیب",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪkˈsentɪk/",
+        "definitions": [
+            "Unconventional and slightly strange.",
+            "Not following a perfectly circular orbit or path."
+        ],
+        "examples": [
+            "His eccentric behavior amused everyone.",
+            "The eccentric artist had unique ideas."
+        ]
+    },
+    {
+        "word": "eclectic",
+        "persianMeaning": "متنوع",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪˈklektɪk/",
+        "definitions": [
+            "Deriving ideas, style, or taste from a broad and diverse range of sources.",
+            "Varied or diverse in approach."
+        ],
+        "examples": [
+            "Her eclectic taste in music was impressive.",
+            "The restaurant offered an eclectic menu."
+        ]
+    },
+    {
+        "word": "efface",
+        "persianMeaning": "محو کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪˈfeɪs/",
+        "definitions": [
+            "To erase or remove something from notice or memory.",
+            "To make oneself appear insignificant or inconspicuous."
+        ],
+        "examples": [
+            "Time effaced the memories of the event.",
+            "She effaced herself during the debate."
+        ]
+    },
+    {
+        "word": "efficacious",
+        "persianMeaning": "موثر",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌefɪˈkeɪʃəs/",
+        "definitions": [
+            "Successful in producing a desired or intended result.",
+            "Effective or potent."
+        ],
+        "examples": [
+            "The medicine was efficacious in treating the illness.",
+            "Her efficacious strategy led to success."
+        ]
+    },
+    {
+        "word": "effrontery",
+        "persianMeaning": "وقاحت",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪˈfrʌntəri/",
+        "definitions": [
+            "Insolent or impertinent behavior.",
+            "Shameless boldness."
+        ],
+        "examples": [
+            "His effrontery shocked the audience.",
+            "She had the effrontery to interrupt the meeting."
+        ]
+    },
+    {
+        "word": "egregious",
+        "persianMeaning": "فاحش",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪˈɡriːdʒəs/",
+        "definitions": [
+            "Outstandingly bad; shocking.",
+            "Remarkably bad or flagrant."
+        ],
+        "examples": [
+            "The egregious error cost the company millions.",
+            "His egregious behavior was unacceptable."
+        ]
+    },
+    {
+        "word": "elated",
+        "persianMeaning": "شادمان",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪˈleɪtɪd/",
+        "definitions": [
+            "In high spirits; exultantly proud or joyful.",
+            "Overjoyed or thrilled."
+        ],
+        "examples": [
+            "She was elated by the good news.",
+            "The team was elated after their victory."
+        ]
+    },
+    {
+        "word": "elicit",
+        "persianMeaning": "برانگیختن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪˈlɪsɪt/",
+        "definitions": [
+            "To draw out or evoke a response or reaction.",
+            "To bring forth or call forth."
+        ],
+        "examples": [
+            "Her speech elicited applause from the crowd.",
+            "The question elicited a surprising response."
+        ]
+    },
+    {
+        "word": "elusive",
+        "persianMeaning": "گریزان",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪˈluːsɪv/",
+        "definitions": [
+            "Difficult to find, catch, or achieve.",
+            "Hard to grasp or understand."
+        ],
+        "examples": [
+            "The elusive thief evaded capture.",
+            "The answer remained elusive despite efforts."
+        ]
+    },
+    {
+        "word": "emulate",
+        "persianMeaning": "تقلید کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈemjuleɪt/",
+        "definitions": [
+            "To match or surpass a person or achievement, typically by imitation.",
+            "To strive to equal or excel."
+        ],
+        "examples": [
+            "She emulated her mentor’s success.",
+            "He tried to emulate the artist’s style."
+        ]
+    },
+    {
+        "word": "enamored",
+        "persianMeaning": "شیفته",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪˈnæmərd/",
+        "definitions": [
+            "Filled with love or admiration for someone or something.",
+            "Charmed or captivated."
+        ],
+        "examples": [
+            "He was enamored with the city’s beauty.",
+            "She was enamored of the novel’s characters."
+        ]
+    },
+    {
+        "word": "enigma",
+        "persianMeaning": "معما",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪˈnɪɡmə/",
+        "definitions": [
+            "A person or thing that is mysterious or difficult to understand.",
+            "A puzzle or riddle."
+        ],
+        "examples": [
+            "Her motives remained an enigma.",
+            "The ancient text was an enigma to scholars."
+        ]
+    },
+    {
+        "word": "ennui",
+        "persianMeaning": "ملالت",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɒnˈwiː/",
+        "definitions": [
+            "A feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement.",
+            "Boredom or weariness."
+        ],
+        "examples": [
+            "He felt ennui during the long winter.",
+            "The routine caused a sense of ennui."
+        ]
+    },
+    {
+        "word": "enthrall",
+        "persianMeaning": "مجذوب کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪnˈθrɔːl/",
+        "definitions": [
+            "To capture the fascinated attention of.",
+            "To hold spellbound."
+        ],
+        "examples": [
+            "The story enthralled the audience.",
+            "Her performance enthralled everyone."
+        ]
+    },
+    {
+        "word": "epitome",
+        "persianMeaning": "نمونه کامل",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ɪˈpɪtəmi/",
+        "definitions": [
+            "A person or thing that is a perfect example of a particular quality or type.",
+            "A summary or embodiment."
+        ],
+        "examples": [
+            "She was the epitome of elegance.",
+            "The building is the epitome of modern design."
+        ]
+    },
+    {
+        "word": "equanimity",
+        "persianMeaning": "خونسردی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌekwəˈnɪməti/",
+        "definitions": [
+            "Mental calmness, composure, and evenness of temper, especially in a difficult situation.",
+            "Balance or stability of mind."
+        ],
+        "examples": [
+            "She faced the crisis with equanimity.",
+            "His equanimity impressed his colleagues."
+        ]
+    },
+    {
+        "word": "erudite",
+        "persianMeaning": "دانشمند",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈerjudaɪt/",
+        "definitions": [
+            "Having or showing great knowledge or learning.",
+            "Scholarly or intellectual."
+        ],
+        "examples": [
+            "The erudite professor gave a brilliant lecture.",
+            "Her erudite writings were widely respected."
+        ]
+    },
+    {
+        "word": "esoteric",
+        "persianMeaning": "مرموز",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌesəˈterɪk/",
+        "definitions": [
+            "Intended for or likely to be understood by only a small number of people with specialized knowledge.",
+            "Secret or hidden."
+        ],
+        "examples": [
+            "The esoteric text was hard to decipher.",
+            "His esoteric interests fascinated a few."
+        ]
+    },
+    {
+        "word": "euphemism",
+        "persianMeaning": "تعارف",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈjuːfəmɪzəm/",
+        "definitions": [
+            "A mild or indirect word or expression substituted for one considered too harsh or blunt.",
+            "A polite way of expressing something."
+        ],
+        "examples": [
+            "‘Passed away’ is a euphemism for died.",
+            "She used a euphemism to avoid offense."
+        ]
+    },
+    {
+        "word": "exacerbate",
+        "persianMeaning": "تشدید کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪɡˈzæsərbeɪt/",
+        "definitions": [
+            "To make a problem, bad situation, or negative feeling worse.",
+            "To aggravate or worsen."
+        ],
+        "examples": [
+            "His comments exacerbated the tension.",
+            "Neglect exacerbated the issue."
+        ]
+    },
+    {
+        "word": "exalt",
+        "persianMeaning": "ستایش کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪɡˈzɔːlt/",
+        "definitions": [
+            "To hold someone or something in very high regard; to praise.",
+            "To raise to a higher rank or position."
+        ],
+        "examples": [
+            "The poet exalted nature in his work.",
+            "She was exalted to a leadership role."
+        ]
+    },
+    {
+        "word": "exemplary",
+        "persianMeaning": "نمونه",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪɡˈzempləri/",
+        "definitions": [
+            "Serving as a desirable model; very good.",
+            "Representative or illustrative of a type."
+        ],
+        "examples": [
+            "Her exemplary work earned her praise.",
+            "The student’s behavior was exemplary."
+        ]
+    },
+    {
+        "word": "expedite",
+        "persianMeaning": "تسریع کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈekspədaɪt/",
+        "definitions": [
+            "To make an action or process happen sooner.",
+            "To speed up or facilitate."
+        ],
+        "examples": [
+            "They expedited the delivery process.",
+            "Her efforts expedited the project’s completion."
+        ]
+    },
+    {
+        "word": "exquisite",
+        "persianMeaning": "نفیس",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪkˈskwɪzɪt/",
+        "definitions": [
+            "Extremely beautiful and delicate.",
+            "Intensely felt or refined."
+        ],
+        "examples": [
+            "The exquisite craftsmanship was admired.",
+            "She felt exquisite joy at the news."
+        ]
+    },
+    {
+        "word": "extol",
+        "persianMeaning": "ستودن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ɪkˈstoʊl/",
+        "definitions": [
+            "To praise enthusiastically.",
+            "To laud or celebrate."
+        ],
+        "examples": [
+            "He extolled the virtues of the plan.",
+            "The critic extolled the artist’s talent."
+        ]
+    },
+    {
+        "word": "extricate",
+        "persianMeaning": "رها کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈekstrɪkeɪt/",
+        "definitions": [
+            "To free or release from entanglement or difficulty.",
+            "To disentangle or liberate."
+        ],
+        "examples": [
+            "They extricated the car from the mud.",
+            "She extricated herself from the awkward situation."
+        ]
+    },
+    {
+        "word": "exuberant",
+        "persianMeaning": "پرشور",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ɪɡˈzuːbərənt/",
+        "definitions": [
+            "Filled with or characterized by lively energy and excitement.",
+            "Effusively enthusiasticive or abundant."
+],
+"examples": [
+"Her exuberant personality brightened the room.",
+"The garden was exuberant with colorful blooms."
+]
+},
+{
+"word": "facetious",
+"persianMeaning": "شوخ",
+"partOfSpeech": "adjective",
+"pronunciation": "/fəˈsiːʃəs/",
+"definitions": [
+"Treating serious issues with deliberately inappropriate humor.",
+"Playfully humorous or joking."
+],
+"examples": [
+"His facetious remark lightened the mood.",
+"She was being facetious during the debate."
+]
+},
+{
+"word": "fastidious",
+"persianMeaning": "سخت‌گیر",
+"partOfSpeech": "adjective",
+"pronunciation": "/fæˈstɪdiəs/",
+"definitions": [
+"Very attentive to and concerned about accuracy and detail.",
+"Excessively particular or demanding."
+],
+"examples": [
+"Her fastidious nature ensured perfect results.",
+"He was fastidious about his appearance."
+]
+},
+{
+"word": "fathom",
+"persianMeaning": "درک کردن",
+"partOfSpeech": "verb",
+"pronunciation": "/ˈfæðəm/",
+"definitions": [
+"To understand something thoroughly after much thought.",
+"To measure the depth of water."
+],
+"examples": [
+"She couldn’t fathom his decision.",
+"The sailors fathomed the sea’s depth."
+]
+},
+{
+"word": "felicity",
+"persianMeaning": "خوشبختی",
+"partOfSpeech": "noun",
+"pronunciation": "/fɪˈlɪsɪti/",
+"definitions": [
+"Intense happiness or bliss.",
+"The ability to express oneself aptly or gracefully."
+],
+"examples": [
+"The couple lived in felicity after their marriage.",
+"Her felicity in speech impressed the audience."
+]
+},
+{
+"word": "fervent",
+"persianMeaning": "پرشور",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈfɜːrvənt/",
+"definitions": [
+"Having or displaying passionate intensity.",
+"Ardent or zealous."
+],
+"examples": [
+"His fervent speech inspired the crowd.",
+"She was a fervent advocate for change."
+]
+},
+{
+"word": "fickle",
+"persianMeaning": "بی‌ثبات",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈfɪkl/",
+"definitions": [
+"Changing frequently, especially in affections or loyalties.",
+"Unpredictable or capricious."
+],
+"examples": [
+"Her fickle nature made trust difficult.",
+"The fickle weather disrupted their plans."
+]
+},
+{
+"word": "flamboyant",
+"persianMeaning": "پرزرق‌وبرق",
+"partOfSpeech": "adjective",
+"pronunciation": "/flæmˈbɔɪənt/",
+"definitions": [
+"Tending to attract attention because of exuberance or confidence.",
+"Bright, colorful, or showy."
+],
+"examples": [
+"His flamboyant attire stood out at the event.",
+"The flamboyant performance captivated all."
+]
+},
+{
+"word": "flourish",
+"persianMeaning": "شکوفا شدن",
+"partOfSpeech": "verb",
+"pronunciation": "/ˈflɜːrɪʃ/",
+"definitions": [
+"To grow or develop in a healthy or vigorous way.",
+"To thrive or prosper."
+],
+"examples": [
+"The plants flourished in the warm climate.",
+"Her business flourished after the campaign."
+]
+},
+{
+"word": "formidable",
+"persianMeaning": "ترسناک",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈfɔːrmɪdəbl/",
+"definitions": [
+"Inspiring fear or respect through being impressively large, powerful, or capable.",
+"Intimidating or daunting."
+],
+"examples": [
+"The formidable opponent was hard to beat.",
+"Her formidable intellect impressed everyone."
+]
+},
+{
+"word": "fortuitous",
+"persianMeaning": "تصادفی",
+"partOfSpeech": "adjective",
+"pronunciation": "/fɔːrˈtjuːɪtəs/",
+"definitions": [
+"Happening by chance rather than intention, often in a fortunate way.",
+"Lucky or serendipitous."
+],
+"examples": [
+"Their fortuitous meeting led to a partnership.",
+"The fortuitous discovery changed everything."
+]
+},
+{
+"word": "frugal",
+"persianMeaning": "صرفه‌جو",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈfruːɡl/",
+"definitions": [
+"Sparing or economical with regard to money or food.",
+"Simple and plain, costing little."
+],
+"examples": [
+"Her frugal habits saved her a fortune.",
+"The frugal meal was still delicious."
+]
+},
+{
+"word": "furtive",
+"persianMeaning": "مخفیانه",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈfɜːrtɪv/",
+"definitions": [
+"Attempting to avoid notice or attention, typically because of guilt.",
+"Secretive or sly."
+],
+"examples": [
+"He cast a furtive glance at the letter.",
+"Her furtive behavior raised suspicions."
+]
+},
+{
+"word": "garrulous",
+"persianMeaning": "پرچانه",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈɡærələs/",
+"definitions": [
+"Excessively talkative, especially on trivial matters.",
+"Loquacious or chatty."
+],
+"examples": [
+"The garrulous guest dominated the conversation.",
+"His garrulous nature was exhausting."
+]
+},
+{
+"word": "genial",
+"persianMeaning": "خوش‌برخورد",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈdʒiːniəl/",
+"definitions": [
+"Friendly and cheerful.",
+"Pleasant or agreeable."
+],
+"examples": [
+"His genial smile welcomed everyone.",
+"The genial host made the party enjoyable."
+]
+},
+{
+"word": "glean",
+"persianMeaning": "جمع‌آوری کردن",
+"partOfSpeech": "verb",
+"pronunciation": "/ɡliːn/",
+"definitions": [
+"To gather information or material bit by bit.",
+"To collect crops left behind after a harvest."
+],
+"examples": [
+"She gleaned useful insights from the book.",
+"Farmers gleaned the remaining grain."
+]
+},
+{
+"word": "gregarious",
+"persianMeaning": "اجتماعی",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɡrɪˈɡeəriəs/",
+"definitions": [
+"Fond of company; sociable.",
+"Enjoying the company of others."
+],
+"examples": [
+"His gregarious nature made him popular at parties.",
+"The gregarious host welcomed everyone warmly."
+]
+},
+{
+"word": "guile",
+"persianMeaning": "نیرنگ",
+"partOfSpeech": "noun",
+"pronunciation": "/ɡaɪl/",
+"definitions": [
+"Sly or cunning intelligence.",
+"Deceitful or crafty behavior."
+],
+"examples": [
+"He used guile to win the negotiation.",
+"Her guile was subtle but effective."
+]
+},
+{
+"word": "halcyon",
+"persianMeaning": "آرام و خوش",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈhælsiən/",
+"definitions": [
+"Denoting a period of time in the past that was idyllically happy and peaceful.",
+"Calm or tranquil."
+],
+"examples": [
+"She recalled the halcyon days of her youth.",
+"The halcyon weather was perfect for sailing."
+]
+},
+{
+"word": "harrowing",
+"persianMeaning": "دلخراش",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈhæroʊɪŋ/",
+"definitions": [
+"Acutely distressing or painful.",
+"Causing intense emotional suffering."
+],
+"examples": [
+"The harrowing experience left her shaken.",
+"The documentary depicted a harrowing reality."
+]
+},
+{
+"word": "hedonistic",
+"persianMeaning": "لذت‌جویانه",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˌhiːdəˈnɪstɪk/",
+"definitions": [
+"Engaged in the pursuit of pleasure; self-indulgent.",
+"Devoted to seeking sensory gratification."
+],
+"examples": [
+"His hedonistic lifestyle was extravagant.",
+"The hedonistic party was unforgettable."
+]
+},
+{
+"word": "herald",
+"persianMeaning": "اعلام کردن",
+"partOfSpeech": "verb",
+"pronunciation": "/ˈherəld/",
+"definitions": [
+"To be a sign that something is about to happen.",
+"To announce or proclaim."
+],
+"examples": [
+"The event heralded a new era.",
+"The sunrise heralded a beautiful day."
+]
+},
+{
+"word": "iconoclast",
+"persianMeaning": "سنت‌شکن",
+"partOfSpeech": "noun",
+"pronunciation": "/aɪˈkɒnəklæst/",
+"definitions": [
+"A person who attacks cherished beliefs or institutions.",
+"A breaker of established traditions."
+],
+"examples": [
+"The artist was an iconoclast in her field.",
+"His iconoclast views challenged norms."
+]
+},
+{
+"word": "idiosyncratic",
+"persianMeaning": "خاص",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˌɪdiəsɪŋˈkrætɪk/",
+"definitions": [
+"Peculiar or individual in character.",
+"Having unique or distinctive habits."
+],
+"examples": [
+"Her idiosyncratic style was unmistakable.",
+"His idiosyncratic behavior amused others."
+]
+},
+{
+"word": "ignominy",
+"persianMeaning": "رسوایی",
+"partOfSpeech": "noun",
+"pronunciation": "/ˈɪɡnəmɪni/",
+"definitions": [
+"Public shame or disgrace.",
+"Dishonor or humiliation."
+],
+"examples": [
+"He faced ignominy after the scandal.",
+"The defeat brought ignominy to the team."
+]
+},
+{
+"word": "illustrious",
+"persianMeaning": "مشهور",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪˈlʌstriəs/",
+"definitions": [
+"Well-known, respected, and admired for past achievements.",
+"Distinguished or eminent."
+],
+"examples": [
+"The illustrious scientist won many awards.",
+"Her illustrious career inspired others."
+]
+},
+{
+"word": "immutable",
+"persianMeaning": "تغییرناپذیر",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪˈmjuːtəbl/",
+"definitions": [
+"Unchanging over time or unable to be changed.",
+"Fixed or permanent."
+],
+"examples": [
+"The laws of physics are immutable.",
+"Her immutable beliefs guided her actions."
+]
+},
+{
+"word": "impartial",
+"persianMeaning": "بی‌طرف",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪmˈpɑːrʃl/",
+"definitions": [
+"Treating all rivals or disputants equally.",
+"Fair and unbiased."
+],
+"examples": [
+"The judge was impartial in her ruling.",
+"His impartial advice was trusted."
+]
+},
+{
+"word": "impeccable",
+"persianMeaning": "بی‌عیب",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪmˈpekəbl/",
+"definitions": [
+"In accordance with the highest standards; faultless.",
+"Perfect or flawless."
+],
+"examples": [
+"Her impeccable manners impressed everyone.",
+"The work was done with impeccable precision."
+]
+},
+{
+"word": "impetuous",
+"persianMeaning": "شتاب‌زده",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪmˈpetʃuəs/",
+"definitions": [
+"Acting or done quickly and without thought or care.",
+"Impulsive or rash."
+],
+"examples": [
+"His impetuous decision led to trouble.",
+"She was known for her impetuous nature."
+]
+},
+{
+"word": "implacable",
+"persianMeaning": "ناسازگار",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪmˈplækəbl/",
+"definitions": [
+"Unable to be placated or appeased.",
+"Relentless or unyielding."
+],
+"examples": [
+"His implacable anger worried his friends.",
+"The enemy was implacable in their resolve."
+]
+},
+{
+"word": "implicit",
+"persianMeaning": "ضمنی",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪmˈplɪsɪt/",
+"definitions": [
+"Implied though not plainly expressed.",
+"Inherent or absolute."
+],
+"examples": [
+"There was an implicit agreement between them.",
+"Her implicit trust in him was unshaken."
+]
+},
+{
+"word": "impromptu",
+"persianMeaning": "بداهه",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪmˈprɒmptu/",
+"definitions": [
+"Done without being planned, organized, or rehearsed.",
+"Spontaneous or improvised."
+],
+"examples": [
+"The impromptu speech was impressive.",
+"They held an impromptu gathering."
+]
+},
+{
+"word": "inadvertent",
+"persianMeaning": "غیرعمدی",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˌɪnədˈvɜːrtnt/",
+"definitions": [
+"Not resulting from or achieved through deliberate planning.",
+"Unintentional or accidental."
+],
+"examples": [
+"The mistake was inadvertent but costly.",
+"Her inadvertent remark caused confusion."
+]
+},
+{
+"word": "incandescent",
+"persianMeaning": "درخشان",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˌɪnkænˈdesnt/",
+"definitions": [
+"Emitting light as a result of being heated.",
+"Passionate or brilliant."
+],
+"examples": [
+"The incandescent bulb lit the room.",
+"Her incandescent performance was unforgettable."
+]
+},
+{
+"word": "incisive",
+"persianMeaning": "تیز",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪnˈsaɪsɪv/",
+"definitions": [
+"Intelligently analytical and clear-thinking.",
+"Penetrating or sharp in insight."
+],
+"examples": [
+"Her incisive comments clarified the issue.",
+"The critic’s incisive review was insightful."
+]
+},
+{
+"word": "incongruous",
+"persianMeaning": "ناسازگار",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪnˈkɒŋɡruəs/",
+"definitions": [
+"Not in harmony or keeping with the surroundings or other aspects.",
+"Out of place or inappropriate."
+],
+"examples": [
+"The modern building looked incongruous in the village.",
+"His humor was incongruous with the mood."
+]
+},
+{
+"word": "incorrigible",
+"persianMeaning": "اصلاح‌ناپذیر",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪnˈkɔːrɪdʒəbl/",
+"definitions": [
+"Not able to be corrected, improved, or reformed.",
+"Inveterate or habitual."
+],
+"examples": [
+"The incorrigible child ignored all advice.",
+"His incorrigible optimism was infectious."
+]
+},
+{
+"word": "indefatigable",
+"persianMeaning": "خستگی‌ناپذیر",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˌɪndɪˈfætɪɡəbl/",
+"definitions": [
+"Persisting tirelessly.",
+"Untiring or relentless in effort."
+],
+"examples": [
+"Her indefatigable spirit drove the project forward.",
+"He was indefatigable in his pursuit of truth."
+]
+},
+{
+"word": "indolent",
+"persianMeaning": "تنبل",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈɪndələnt/",
+"definitions": [
+"Wanting to avoid activity or exertion; lazy.",
+"Idle or sluggish."
+],
+"examples": [
+"His indolent attitude frustrated the team.",
+"The indolent afternoon was spent lounging."
+]
+},
+{
+"word": "ineffable",
+"persianMeaning": "غیرقابل‌توصیف",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪnˈefəbl/",
+"definitions": [
+"Too great or extreme to be expressed or described in words.",
+"Indescribable or inexpressible."
+],
+"examples": [
+"The beauty of the scene was ineffable.",
+"Her joy was ineffable at the reunion."
+]
+},
+{
+"word": "inexorable",
+"persianMeaning": "بی‌رحم",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪnˈeksərəbl/",
+"definitions": [
+"Impossible to stop or prevent.",
+"Relentless or unyielding."
+],
+"examples": [
+"The inexorable march of time continued.",
+"Her inexorable determination led to success."
+]
+},
+{
+"word": "ingenious",
+"persianMeaning": "نابغه",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪnˈdʒiːniəs/",
+"definitions": [
+"Clever, original, and inventive.",
+"Resourceful or creative."
+],
+"examples": [
+"His ingenious solution saved the project.",
+"The device was an ingenious invention."
+]
+},
+{
+"word": "ingenuity",
+"persianMeaning": "نبوغ",
+"partOfSpeech": "noun",
+"pronunciation": "/ˌɪndʒəˈnjuːɪti/",
+"definitions": [
+"The quality of being clever, original, and inventive.",
+"Creativity or resourcefulness."
+],
+"examples": [
+"Her ingenuity solved the complex problem.",
+"The design showcased remarkable ingenuity."
+]
+},
+{
+"word": "inscrutable",
+"persianMeaning": "غیرقابل‌فهم",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪnˈskruːtəbl/",
+"definitions": [
+"Impossible to understand or interpret.",
+"Mysterious or enigmatic."
+],
+"examples": [
+"His inscrutable expression gave nothing away.",
+"The text was inscrutable to most readers."
+]
+},
+{
+"word": "insipid",
+"persianMeaning": "بی‌مزه",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪnˈsɪpɪd/",
+"definitions": [
+"Lacking flavor or taste.",
+"Lacking vigor or interest."
+],
+"examples": [
+"The meal was insipid and unappealing.",
+"His insipid speech bored the audience."
+]
+},
+{
+"word": "intrepid",
+"persianMeaning": "نترس",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪnˈtrepɪd/",
+"definitions": [
+"Fearless; adventurous.",
+"Resolutely courageous."
+],
+"examples": [
+"The intrepid explorer braved the jungle.",
+"Her intrepid spirit inspired others."
+]
+},
+{
+"word": "inundate",
+"persianMeaning": "غرق کردن",
+"partOfSpeech": "verb",
+"pronunciation": "/ˈɪnʌndeɪt/",
+"definitions": [
+"To overwhelm with things or people to be dealt with.",
+"To flood or cover with water."
+],
+"examples": [
+"She was inundated with emails after the event.",
+"The village was inundated during the storm."
+]
+},
+{
+"word": "inveterate",
+"persianMeaning": "ریشه‌دار",
+"partOfSpeech": "adjective",
+"pronunciation": "/ɪnˈvetərət/",
+"definitions": [
+"Having a particular habit, activity, or interest that is long-established and unlikely to change.",
+"Deep-rooted or habitual."
+],
+"examples": [
+"He was an inveterate smoker.",
+"Her inveterate optimism was inspiring."
+]
+},
+{
+"word": "iridescent",
+"persianMeaning": "رنگین‌کمانی",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˌɪrɪˈdesnt/",
+"definitions": [
+"Showing luminous colors that seem to change when seen from different angles.",
+"Shimmering or radiant."
+],
+"examples": [
+"The iridescent feathers caught the light beautifully.",
+"Her iridescent dress sparkled at the gala."
+]
+},
+{
+"word": "ironic",
+"persianMeaning": "طعنه‌آمیز",
+"partOfSpeech": "adjective",
+"pronunciation": "/aɪˈrɒnɪk/",
+"definitions": [
+"Happening in the opposite way to what is expected, often causing wry amusement.",
+"Using or characterized by irony."
+],
+"examples": [
+"It was ironic that the firefighter’s house burned down.",
+"Her ironic comment made everyone laugh."
+]
+},
+{
+"word": "jocular",
+"persianMeaning": "شوخ",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈdʒɒkjələr/",
+"definitions": [
+"Fond of or characterized by joking; humorous.",
+"Playful or jesting."
+],
+"examples": [
+"His jocular remarks kept the mood light.",
+"The jocular tone eased the tension."
+]
+},
+{
+"word": "jovial",
+"persianMeaning": "شادمان",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈdʒoʊviəl/",
+"definitions": [
+"Cheerful and friendly.",
+"Full of good humor and high spirits."
+],
+"examples": [
+"The jovial host made everyone feel at home.",
+"His jovial nature brightened the day."
+]
+},
+{
+"word": "judicious",
+"persianMeaning": "عاقلانه",
+"partOfSpeech": "adjective",
+"pronunciation": "/dʒuˈdɪʃəs/",
+"definitions": [
+"Having, showing, or done with good judgment or sense.",
+"Wise or prudent."
+],
+"examples": [
+"Her judicious decision saved resources.",
+"He was judicious in his investments."
+]
+},
+{
+"word": "juxtapose",
+"persianMeaning": "پهلو به پهلو قرار دادن",
+"partOfSpeech": "verb",
+"pronunciation": "/ˌdʒʌkstəˈpoʊz/",
+"definitions": [
+"To place or deal with close together for contrasting effect.",
+"To compare side by side."
+],
+"examples": [
+"The artist juxtaposed light and dark colors.",
+"The book juxtaposed two different eras."
+]
+},
+{
+"word": "keen",
+"persianMeaning": "تیز",
+"partOfSpeech": "adjective",
+"pronunciation": "/kiːn/",
+"definitions": [
+"Having or showing eagerness or enthusiasm.",
+"Sharp or penetrating."
+],
+"examples": [
+"She had a keen interest in science.",
+"His keen wit impressed the audience."
+]
+},
+{
+"word": "labyrinthine",
+"persianMeaning": "پیچ‌درپیچ",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˌlæbəˈrɪnθaɪn/",
+"definitions": [
+"Complicated or tortuous, like a labyrinth.",
+"Intricate or convoluted."
+],
+"examples": [
+"The labyrinthine plot confused readers.",
+"The city’s labyrinthine streets were hard to navigate."
+]
+},
+{
+"word": "lacerate",
+"persianMeaning": "پاره کردن",
+"partOfSpeech": "verb",
+"pronunciation": "/ˈlæsəreɪt/",
+"definitions": [
+"To tear or deeply cut something, especially flesh.",
+"To distress or wound emotionally."
+],
+"examples": [
+"The thorns lacerated his skin.",
+"Her harsh words lacerated his feelings."
+]
+},
+{
+"word": "laconic",
+"persianMeaning": "مختصر",
+"partOfSpeech": "adjective",
+"pronunciation": "/ləˈkɒnɪk/",
+"definitions": [
+"Using very few words; concise.",
+"Brief or terse in expression."
+],
+"examples": [
+"His laconic reply surprised everyone.",
+"She was known for her laconic style."
+]
+},
+{
+"word": "lament",
+"persianMeaning": "سوگواری کردن",
+"partOfSpeech": "verb",
+"pronunciation": "/ləˈment/",
+"definitions": [
+"To express sorrow, mourning, or regret.",
+"To mourn or grieve deeply."
+],
+"examples": [
+"She lamented the loss of her friend.",
+"The poem laments the passage of time."
+]
+},
+{
+"word": "laudable",
+"persianMeaning": "ستودنی",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈlɔːdəbl/",
+"definitions": [
+"Deserving praise and commendation.",
+"Admirable or praiseworthy."
+],
+"examples": [
+"Her laudable efforts helped the community.",
+"The project was a laudable achievement."
+]
+},
+{
+"word": "lethargic",
+"persianMeaning": "بی‌حال",
+"partOfSpeech": "adjective",
+"pronunciation": "/ləˈθɑːrdʒɪk/",
+"definitions": [
+"Affected by lethargy; sluggish and apathetic.",
+"Lacking energy or enthusiasm."
+],
+"examples": [
+"He felt lethargic after the long day.",
+"The team’s lethargic performance disappointed fans."
+]
+},
+{
+"word": "levity",
+"persianMeaning": "سبکی",
+"partOfSpeech": "noun",
+"pronunciation": "/ˈlevɪti/",
+"definitions": [
+"Humor or frivolity, especially in serious matters.",
+"Lightness of manner or speech."
+],
+"examples": [
+"Her levity eased the tense atmosphere.",
+"The speech lacked levity and felt heavy."
+]
+},
+{
+"word": "limpid",
+"persianMeaning": "شفاف",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈlɪmpɪd/",
+"definitions": [
+"Clear, transparent, or pellucid.",
+"Clearly expressed or easy to understand."
+],
+"examples": [
+"The limpid water revealed the lake’s floor.",
+"Her limpid prose was easy to read."
+]
+},
+{
+"word": "lithe",
+"persianMeaning": "نرم و انعطاف‌پذیر",
+"partOfSpeech": "adjective",
+"pronunciation": "/laɪð/",
+"definitions": [
+"Slim, flexible, or graceful.",
+"Supple or agile."
+],
+"examples": [
+"The dancer’s lithe movements were mesmerizing.",
+"Her lithe figure moved effortlessly."
+]
+},
+{
+"word": "loquacious",
+"persianMeaning": "پرگو",
+"partOfSpeech": "adjective",
+"pronunciation": "/loʊˈkweɪʃəs/",
+"definitions": [
+"Talkative or wordy.",
+"Tending to talk a great deal."
+],
+"examples": [
+"The loquacious guide shared endless stories.",
+"His loquacious nature kept the conversation lively."
+]
+},
+{
+"word": "lucid",
+"persianMeaning": "شفاف",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈluːsɪd/",
+"definitions": [
+"Expressed clearly; easy to understand.",
+"Bright or luminous."
+],
+"examples": [
+"Her lucid explanation clarified the topic.",
+"He had a lucid moment of insight."
+]
+},
+{
+"word": "luminous",
+"persianMeaning": "درخشان",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈluːmɪnəs/",
+"definitions": [
+"Bright or radiant, especially in a way that seems to glow.",
+"Clear and enlightening."
+],
+"examples": [
+"The luminous stars lit up the sky.",
+"Her luminous ideas inspired the team."
+]
+},
+{
+"word": "magnanimous",
+"persianMeaning": "بزرگوار",
+"partOfSpeech": "adjective",
+"pronunciation": "/mæɡˈnænɪməs/",
+"definitions": [
+"Generous or forgiving, especially toward a rival or less powerful person.",
+"Noble or kind-hearted."
+],
+"examples": [
+"His magnanimous gesture won their respect.",
+"She was magnanimous in her victory."
+]
+},
+{
+"word": "malleable",
+"persianMeaning": "انعطاف‌پذیر",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈmæliəbl/",
+"definitions": [
+"Easily influenced or shaped; pliable.",
+"Capable of being molded or adapted."
+],
+"examples": [
+"The malleable clay was easy to shape.",
+"Her malleable nature adapted to change."
+]
+},
+{
+"word": "maudlin",
+"persianMeaning": "احساساتی",
+"partOfSpeech": "adjective",
+"pronunciation": "/ˈmɔːdlɪn/",
+"definitions": [
+"Self-pityingly or tearfully sentimental.",
+"Overly emotional or mawkish."
+],
+"examples": [
+"The maudlin speech moved the audience to tears.",
+"Her maudlin behavior was unexpected."
+]
+},
+{
+"word": "meander",
+"persianMeaning": "پیچ‌وتاب خوردن",
+"partOfSpeech": "verb",
+"pronunciation": "/miˈændər/",
+"definitions": [
+"To follow a winding or indirect course.",
+"To wander aimlessly or casually."
+],
+"examples": [
+"The river meandered through the valley.",
+"She meandered through the market."
+]
+},
+{
+"word": "melancholy",
+"persianMeaning": "غم‌انگیز",
+"partOfSpeech": "noun",
+"pronunciation": "/ˈmelənkɒli/",
+"definitions": [
+"A feeling of pensive sadness, typically with no obvious cause.",
+"A state of gloom or depression."
+],
+"examples": [
+"A sense of melancholy filled the room.",
+"The music evoked a deep melancholy."
+]
+},
+{
+"word": "meticulous",
+"persianMeaning": "دقیق",
+"partOfSpeech": "adjective",
+"pronunciation": "/məˈtɪkjələs/",
+"definitions": [
+"Showing great attention to detail; very careful and precise.",
+"Painstakingly thorough."
+],
+"examples": [
+"Her meticulous planning ensured success.",
+"He was meticulous in his research."
+]
+},
+{
+        "word": "mitigate",
+        "persianMeaning": "کاهش دادن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈmɪtɪɡeɪt/",
+        "definitions": [
+            "To make less severe, serious, or painful.",
+            "To alleviate or lessen the impact of something."
+        ],
+        "examples": [
+            "They took steps to mitigate the damage.",
+            "Her apology mitigated the conflict."
+        ]
+    },
+    {
+        "word": "modicum",
+        "persianMeaning": "مقدار کم",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈmɒdɪkəm/",
+        "definitions": [
+            "A small quantity of something.",
+            "A limited or moderate amount."
+        ],
+        "examples": [
+            "He showed a modicum of respect.",
+            "A modicum of effort would help."
+        ]
+    },
+    {
+        "word": "monotonous",
+        "persianMeaning": "یک‌نواخت",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/məˈnɒtənəs/",
+        "definitions": [
+            "Dull, tedious, and repetitious.",
+            "Lacking in variety or interest."
+        ],
+        "examples": [
+            "The monotonous task bored everyone.",
+            "His voice was monotonous and flat."
+        ]
+    },
+    {
+        "word": "morose",
+        "persianMeaning": "عبوس",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/məˈroʊs/",
+        "definitions": [
+            "Sullen and ill-tempered.",
+            "Gloomy or melancholy."
+        ],
+        "examples": [
+            "He was morose after the bad news.",
+            "Her morose demeanor worried her friends."
+        ]
+    },
+    {
+        "word": "mundane",
+        "persianMeaning": "معمولی",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/mʌnˈdeɪn/",
+        "definitions": [
+            "Lacking interest or excitement; dull.",
+            "Ordinary or commonplace."
+        ],
+        "examples": [
+            "The mundane routine tired him.",
+            "Her life seemed mundane but content."
+        ]
+    },
+    {
+        "word": "nebulous",
+        "persianMeaning": "مبهم",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈneb jələs/",
+        "definitions": [
+            "In the form of a cloud or haze; unclear.",
+            "Vague or ill-defined."
+        ],
+        "examples": [
+            "His plans were still nebulous.",
+            "The nebulous concept confused the team."
+        ]
+    },
+    {
+        "word": "nonchalant",
+        "persianMeaning": "بی‌خیال",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌnɒnʃəˈlɑːnt/",
+        "definitions": [
+            "Feeling or appearing casually calm and relaxed.",
+            "Not displaying anxiety or enthusiasm."
+        ],
+        "examples": [
+            "His nonchalant attitude surprised her.",
+            "She was nonchalant about the news."
+        ]
+    },
+    {
+        "word": "nostalgic",
+        "persianMeaning": "نوستالژیک",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/nɒˈstældʒɪk/",
+        "definitions": [
+            "Characterized by or feeling nostalgia.",
+            "Longing for familiar things or the past."
+        ],
+        "examples": [
+            "The song made her nostalgic.",
+            "He felt nostalgic for his childhood."
+        ]
+    },
+    {
+        "word": "notorious",
+        "persianMeaning": "بدنام",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/noʊˈtɔːriəs/",
+        "definitions": [
+            "Famous or well-known, typically for something bad.",
+            "Infamous or disreputable."
+        ],
+        "examples": [
+            "The notorious criminal was finally caught.",
+            "She was notorious for her temper."
+        ]
+    },
+    {
+        "word": "obfuscate",
+        "persianMeaning": "مبهم کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈɒbfəskeɪt/",
+        "definitions": [
+            "To make something unclear or difficult to understand.",
+            "To confuse or obscure."
+        ],
+        "examples": [
+            "His explanation only obfuscated the issue.",
+            "The jargon obfuscated the meaning."
+        ]
+    },
+    {
+        "word": "obstinate",
+        "persianMeaning": "لجوج",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɒbstɪnət/",
+        "definitions": [
+            "Stubbornly refusing to change one’s opinion or course of action.",
+            "Difficult to overcome or remove."
+        ],
+        "examples": [
+            "Her obstinate refusal delayed progress.",
+            "The stain was obstinate and hard to clean."
+        ]
+    },
+    {
+        "word": "ominous",
+        "persianMeaning": "شوم",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈɒmɪnəs/",
+        "definitions": [
+            "Giving the impression that something bad or unpleasant is going to happen.",
+            "Threatening or foreboding."
+        ],
+        "examples": [
+            "The ominous clouds signaled a storm.",
+            "His ominous warning worried everyone."
+        ]
+    },
+    {
+        "word": "opportunistic",
+        "persianMeaning": "فرصت‌طلب",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌɒpərtuˈnɪstɪk/",
+        "definitions": [
+            "Taking advantage of opportunities as they arise, often unethically.",
+            "Exploiting circumstances for gain."
+        ],
+        "examples": [
+            "His opportunistic behavior was criticized.",
+            "The opportunistic move gained her an edge."
+        ]
+    },
+    {
+        "word": "ostentatious",
+        "persianMeaning": "پرنمایش",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˌɒstenˈteɪʃəs/",
+        "definitions": [
+            "Characterized by vulgar or pretentious display.",
+            "Designed to impress or attract notice."
+        ],
+        "examples": [
+            "His ostentatious lifestyle was flashy.",
+            "The ostentatious decor overwhelmed the room."
+        ]
+    },
+    {
+        "word": "palpable",
+        "persianMeaning": "ملموس",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpælpəbl/",
+        "definitions": [
+            "Able to be touched or felt.",
+            "So intense as to seem tangible."
+        ],
+        "examples": [
+            "The tension in the room was palpable.",
+            "Her excitement was palpable to all."
+        ]
+    },
+    {
+        "word": "panacea",
+        "persianMeaning": "درمان همه‌چیز",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌpænəˈsiːə/",
+        "definitions": [
+            "A solution or remedy for all difficulties or diseases.",
+            "A universal cure."
+        ],
+        "examples": [
+            "There is no panacea for poverty.",
+            "The policy was not a panacea for all issues."
+        ]
+    },
+    {
+        "word": "paradox",
+        "persianMeaning": "پارادوکس",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpærədɒks/",
+        "definitions": [
+            "A statement or situation that seems contradictory but may be true.",
+            "An apparent contradiction."
+        ],
+        "examples": [
+            "The paradox of choice confused him.",
+            "Her calm in chaos was a paradox."
+        ]
+    },
+    {
+        "word": "paragon",
+        "persianMeaning": "الگو",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpærəɡɒn/",
+        "definitions": [
+            "A person or thing regarded as a perfect example of a particular quality.",
+            "A model of excellence."
+        ],
+        "examples": [
+            "She was a paragon of virtue.",
+            "The building was a paragon of design."
+        ]
+    },
+    {
+        "word": "pedantic",
+        "persianMeaning": "مغرورانه دقیق",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/pɪˈdæntɪk/",
+        "definitions": [
+            "Excessively concerned with minor details or rules.",
+            "Overly academic or scholarly."
+        ],
+        "examples": [
+            "His pedantic lecture bored the students.",
+            "She was pedantic about grammar rules."
+        ]
+    },
+    {
+        "word": "penchant",
+        "persianMeaning": "تمایل",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpenʃənt/",
+        "definitions": [
+            "A strong liking or preference for something.",
+            "A habitual inclination."
+        ],
+        "examples": [
+            "She had a penchant for spicy food.",
+            "His penchant for adventure was well-known."
+        ]
+    },
+    {
+        "word": "perennial",
+        "persianMeaning": "دائمی",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/pəˈreniəl/",
+        "definitions": [
+            "Lasting or existing for a long or infinite time.",
+            "Recurring or enduring."
+        ],
+        "examples": [
+            "The perennial problem required a solution.",
+            "Her perennial optimism was inspiring."
+        ]
+    },
+    {
+        "word": "permeate",
+        "persianMeaning": "نفوذ کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈpɜːrmieɪt/",
+        "definitions": [
+            "To spread or pass through every part of something.",
+            "To penetrate or pervade."
+        ],
+        "examples": [
+            "The smell of coffee permeated the room.",
+            "Her influence permeated the organization."
+        ]
+    },
+    {
+        "word": "pernicious",
+        "persianMeaning": "مضر",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/pərˈnɪʃəs/",
+        "definitions": [
+            "Having a harmful effect, especially in a gradual or subtle way.",
+            "Destructive or deadly."
+        ],
+        "examples": [
+            "The pernicious rumor damaged his reputation.",
+            "Her pernicious influence was subtle."
+        ]
+    },
+    {
+        "word": "perplex",
+        "persianMeaning": "گیج کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/pərˈpleks/",
+        "definitions": [
+            "To cause someone to feel confused or puzzled.",
+            "To complicate or bewilder."
+        ],
+        "examples": [
+            "The riddle perplexed the students.",
+            "Her actions perplexed everyone."
+        ]
+    },
+    {
+        "word": "pervasive",
+        "persianMeaning": "نفوذی",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/pərˈveɪsɪv/",
+        "definitions": [
+            "Spreading widely throughout an area or group of people.",
+            "Pervading or ubiquitous."
+        ],
+        "examples": [
+            "The pervasive smell filled the house.",
+            "Her pervasive influence shaped the team."
+        ]
+    },
+    {
+        "word": "phlegmatic",
+        "persianMeaning": "خونسرد",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/fleɡˈmætɪk/",
+        "definitions": [
+            "Having an unemotional and calm disposition.",
+            "Slow to become excited or angry."
+        ],
+        "examples": [
+            "His phlegmatic nature kept him calm.",
+            "She was phlegmatic during the crisis."
+        ]
+    },
+    {
+        "word": "pinnacle",
+        "persianMeaning": "اوج",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpɪnəkl/",
+        "definitions": [
+            "The most successful point; the culmination.",
+            "A high, pointed piece of rock."
+        ],
+        "examples": [
+            "She reached the pinnacle of her career.",
+            "The mountain’s pinnacle was breathtaking."
+        ]
+    },
+    {
+        "word": "placate",
+        "persianMeaning": "آرام کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/ˈpleɪkeɪt/",
+        "definitions": [
+            "To make someone less angry or hostile.",
+            "To soothe or pacify."
+        ],
+        "examples": [
+            "She tried to placate the upset customer.",
+            "His apology placated the group."
+        ]
+    },
+    {
+        "word": "plethora",
+        "persianMeaning": "فراوانی",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˈpleθərə/",
+        "definitions": [
+            "A large or excessive amount of something.",
+            "An abundance or surplus."
+        ],
+        "examples": [
+            "There was a plethora of options to choose from.",
+            "The market offered a plethora of goods."
+        ]
+    },
+    {
+        "word": "poignant",
+        "persianMeaning": "تأثرآور",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpɔɪnjənt/",
+        "definitions": [
+            "Evoking a keen sense of sadness or regret.",
+            "Sharply affecting or touching."
+        ],
+        "examples": [
+            "The poignant scene moved everyone to tears.",
+            "Her poignant words resonated deeply."
+        ]
+    },
+    {
+        "word": "pragmatic",
+        "persianMeaning": "عمل‌گرا",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/præɡˈmætɪk/",
+        "definitions": [
+            "Dealing with things sensibly and realistically.",
+            "Practical rather than theoretical."
+        ],
+        "examples": [
+            "Her pragmatic approach solved the issue.",
+            "He was pragmatic in his decisions."
+        ]
+    },
+    {
+        "word": "precarious",
+        "persianMeaning": "ناپایدار",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/prɪˈkeriəs/",
+        "definitions": [
+            "Not securely held or in position; dangerously uncertain.",
+            "Unstable or risky."
+        ],
+        "examples": [
+            "The ladder was in a precarious position.",
+            "Her financial situation was precarious."
+        ]
+    },
+    {
+        "word": "precipitate",
+        "persianMeaning": "شتاب‌زده",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/prɪˈsɪpɪteɪt/",
+        "definitions": [
+            "Done, made, or acting suddenly or without careful consideration.",
+            "Hastening or causing to happen sooner."
+        ],
+        "examples": [
+            "His precipitate decision caused problems.",
+            "The event precipitated a major change."
+        ]
+    },
+    {
+        "word": "predilection",
+        "persianMeaning": "ترجیح",
+        "partOfSpeech": "noun",
+        "pronunciation": "/ˌpredlˈekʃn/",
+        "definitions": [
+            "A preference or special liking for something.",
+            "A bias in favor of something."
+        ],
+        "examples": [
+            "She had a predilection for classical music.",
+            "His predilection for sweets was evident."
+        ]
+    },
+    {
+        "word": "preeminent",
+        "persianMeaning": "برجسته",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/priˈemɪnənt/",
+        "definitions": [
+            "Surpassing all others; very distinguished in some way.",
+            "Superior or outstanding."
+        ],
+        "examples": [
+            "He was a preeminent scholar in his field.",
+            "The company held a preeminent position."
+        ]
+    },
+    {
+        "word": "preposterous",
+        "persianMeaning": "مضحک",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/prɪˈpɒstərəs/",
+        "definitions": [
+            "Absurd or ridiculous.",
+            "Contrary to reason or common sense."
+        ],
+        "examples": [
+            "The idea was utterly preposterous.",
+            "His preposterous claim was dismissed."
+        ]
+    },
+    {
+        "word": "proclivity",
+        "persianMeaning": "گرایش",
+        "partOfSpeech": "noun",
+        "pronunciation": "/prəˈklɪvɪti/",
+        "definitions": [
+            "A tendency to choose or do something regularly.",
+            "An inclination or predisposition."
+        ],
+        "examples": [
+            "He had a proclivity for taking risks.",
+            "Her proclivity for art was evident."
+        ]
+    },
+    {
+        "word": "prodigal",
+        "persianMeaning": "اسراف‌کار",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈprɒdɪɡl/",
+        "definitions": [
+            "Spending money or resources freely and recklessly.",
+            "Wastefully extravagant."
+        ],
+        "examples": [
+            "His prodigal spending left him in debt.",
+            "The prodigal feast was lavish."
+        ]
+    },
+    {
+        "word": "prodigious",
+        "persianMeaning": "شگفت‌انگیز",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/prəˈdɪdʒəs/",
+        "definitions": [
+            "Remarkably or impressively great in extent, size, or degree.",
+            "Extraordinary or marvelous."
+        ],
+        "examples": [
+            "Her prodigious talent amazed everyone.",
+            "The project required prodigious effort."
+        ]
+    },
+    {
+        "word": "profound",
+        "persianMeaning": "عمیق",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/prəˈfaʊnd/",
+        "definitions": [
+            "Having or showing great knowledge or insight.",
+            "Very great or intense."
+        ],
+        "examples": [
+            "His profound wisdom inspired others.",
+            "The loss had a profound impact."
+        ]
+    },
+    {
+        "word": "propensity",
+        "persianMeaning": "تمایل",
+        "partOfSpeech": "noun",
+        "pronunciation": "/prəˈpensɪti/",
+        "definitions": [
+            "An inclination or natural tendency to behave in a particular way.",
+            "A disposition or preference."
+        ],
+        "examples": [
+            "She had a propensity for helping others.",
+            "His propensity for risk was well-known."
+        ]
+    },
+    {
+        "word": "propitious",
+        "persianMeaning": "مساعد",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/prəˈpɪʃəs/",
+        "definitions": [
+            "Giving or indicating a good chance of success.",
+            "Favorable or auspicious."
+        ],
+        "examples": [
+            "The propitious moment led to victory.",
+            "The weather was propitious for the event."
+        ]
+    },
+    {
+        "word": "prosaic",
+        "persianMeaning": "معمولی",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/proʊˈzeɪɪk/",
+        "definitions": [
+            "Having the style or diction of prose; lacking poetic beauty.",
+            "Commonplace or dull."
+        ],
+        "examples": [
+            "His prosaic writing lacked flair.",
+            "The task was prosaic but necessary."
+        ]
+    },
+    {
+        "word": "provocative",
+        "persianMeaning": "تحریک‌آمیز",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/prəˈvɒkətɪv/",
+        "definitions": [
+            "Causing annoyance, anger, or another strong reaction, especially deliberately.",
+            "Stimulating or thought-provoking."
+        ],
+        "examples": [
+            "Her provocative comments sparked debate.",
+            "The article was provocative and bold."
+        ]
+    },
+    {
+        "word": "prudent",
+        "persianMeaning": "محتاط",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈpruːdnt/",
+        "definitions": [
+            "Acting with or showing care and thought for the future.",
+            "Wise or cautious."
+        ],
+        "examples": [
+            "Her prudent decisions ensured success.",
+            "He was prudent with his investments."
+        ]
+    },
+    {
+        "word": "quell",
+        "persianMeaning": "سرکوب کردن",
+        "partOfSpeech": "verb",
+        "pronunciation": "/kwel/",
+        "definitions": [
+            "To put an end to, typically by force.",
+            "To suppress or calm."
+        ],
+        "examples": [
+            "The police quelled the riot quickly.",
+            "She quelled her fears to proceed."
+        ]
+    },
+    {
+        "word": "querulous",
+        "persianMeaning": "ایرادگیر",
+        "partOfSpeech": "adjective",
+        "pronunciation": "/ˈkwerəlევ"
+    }
+    ]
