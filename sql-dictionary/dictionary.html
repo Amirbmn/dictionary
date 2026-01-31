@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lexicon - Beautiful Dictionary</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div class="background-decoration">
+        <div class="bg-circle"></div>
+        <div class="bg-circle"></div>
+        <div class="bg-circle"></div>
+    </div>
+
+    <nav class="navbar">
+        <div class="nav-content">
+            <div class="logo">persDic</div>
+            <button class="theme-toggle" onclick="toggleTheme()">
+                <i class="fas fa-moon"></i>
+            </button>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="hero">
+            <h1>Discover Words</h1>
+            <p>Explore the beauty of language with our elegant dictionary</p>
+        </div>
+
+        <div class="search-container">
+            <div class="search-wrapper">
+                <input type="text" class="search-input" placeholder="Search for a word..." id="searchInput">
+                <i class="fas fa-search search-icon"></i>
+            </div>
+            <div class="suggestions" id="suggestions"></div>
+        </div>
+
+        <div class="main-content">
+            <div class="results-section" id="resultsSection"></div>
+            <div class="sidebar"></div>
+        </div>
+    </div>
+
+   
+   
+  
+   
+   <script src="script.js"></script>
+ 
+</body>
+</html>
