@@ -6,8 +6,572 @@
     <title>Lexicon - Beautiful Dictionary</title>
     <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="style.css">
-    
+    <style> 
+        :root {
+            --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            --secondary-gradient: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            --accent-gradient: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            --dark-bg: #0a0b1e;
+            --dark-card: #1a1b3a;
+            --dark-text: #e2e8f0;
+            --light-bg: #f8fafc;    
+            --light-card: #ffffff;
+            --light-text: #1a202c;
+            --shadow-soft: 0 10px 25px rgba(0, 0, 0, 0.1);
+            --shadow-medium: 0 20px 40px rgba(0, 0, 0, 0.15);
+            --shadow-strong: 0 25px 50px rgba(0, 0, 0, 0.25);
+            --border-radius: 16px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--light-bg);
+            color: var(--light-text);
+            line-height: 1.6;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            overflow-x: hidden;
+        }
+
+        body.dark {
+            background: var(--dark-bg);
+            color: var(--dark-text);
+        }
+
+        .background-decoration {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: -1;
+            opacity: 0.3;
+        }
+
+        .bg-circle {
+            position: absolute;
+            border-radius: 50%;
+            background: var(--primary-gradient);
+            animation: float 20s infinite ease-in-out;
+        }
+
+        .bg-circle:nth-child(1) {
+            width: 300px;
+            height: 300px;
+            top: -150px;
+            right: -150px;
+            animation-delay: 0s;
+        }
+
+        .bg-circle:nth-child(2) {
+            width: 200px;
+            height: 200px;
+            bottom: -100px;
+            left: -100px;
+            background: var(--secondary-gradient);
+            animation-delay: 10s;
+        }
+
+        .bg-circle:nth-child(3) {
+            width: 150px;
+            height: 150px;
+            top: 50%;
+            right: 10%;
+            background: var(--accent-gradient);
+            animation-delay: 5s;
+        }
+
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0px) rotate(0deg);
+            }
+            50% {
+                transform: translateY(-20px) rotate(180deg);
+            }
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .navbar {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+            padding: 1rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            transition: all 0.3s ease;
+        }
+
+        body.dark .navbar {
+            background: rgba(26, 27, 58, 0.95);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .nav-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .logo {
+            font-family: 'Lora', serif;
+            font-size: 2rem;
+            font-weight: 700;
+            background: var(--primary-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .theme-toggle {
+            background: none;
+            border: 2px solid;
+            border-image: var(--primary-gradient) 1;
+            border-radius: 50px;
+            padding: 8px 16px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            color: inherit;
+            font-size: 1rem;
+        }
+
+        body.dark .theme-toggle {
+            border-image: var(--accent-gradient) 1;
+        }
+
+        .theme-toggle:hover {
+            transform: scale(1.05);
+            box-shadow: var(--shadow-soft);
+        }
+
+        .hero {
+            text-align: center;
+            padding: 4rem 0 2rem;
+        }
+
+        .hero h1 {
+            font-family: 'Lora', serif;
+            font-size: 3.5rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            background: var(--primary-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: slideInUp 1s ease-out;
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            opacity: 0.8;
+            margin-bottom: 2rem;
+            animation: slideInUp 1s ease-out 0.2s both;
+        }
+
+        body.dark .hero p {
+            color: #a0aec0;
+        }
+
+        .search-container {
+            position: relative;
+            max-width: 600px;
+            margin: 0 auto 3rem;
+            animation: slideInUp 1s ease-out 0.4s both;
+        }
+
+        .search-wrapper {
+            position: relative;
+            background: var(--light-card);
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow-medium);
+            transition: all 0.3s ease;
+            overflow: hidden;
+        }
+
+        body.dark .search-wrapper {
+            background: var(--dark-card);
+        }
+
+        .search-wrapper:focus-within {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-strong);
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 20px 60px 20px 20px;
+            border: none;
+            background: transparent;
+            font-size: 1.1rem;
+            outline: none;
+            color: inherit;
+        }
+
+        .search-input::placeholder {
+            color: #94a3b8;
+        }
+
+        .search-icon {
+            position: absolute;
+            right: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #94a3b8;
+            font-size: 1.2rem;
+        }
+
+        .suggestions {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: var(--light-card);
+            border-radius: 0 0 var(--border-radius) var(--border-radius);
+            box-shadow: var(--shadow-medium);
+            max-height: 300px;
+            overflow-y: auto;
+            z-index: 10;
+            transform: scaleY(0);
+            transform-origin: top;
+            transition: transform 0.3s ease;
+        }
+
+        body.dark .suggestions {
+            background: var(--dark-card);
+        }
+
+        .suggestions.active {
+            transform: scaleY(1);
+        }
+
+        .suggestion-item {
+            padding: 15px 20px;
+            cursor: pointer;
+            border-bottom: 1px solid rgba(148, 163, 184, 0.1);
+            transition: all 0.2s ease;
+        }
+
+        .suggestion-item:hover, .suggestion-item.focused {
+            background: rgba(148, 163, 184, 0.1);
+        }
+
+        .suggestion-item:last-child {
+            border-bottom: none;
+        }
+
+        .main-content {
+            display: grid;
+            grid-template-columns: 1fr 300px;
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .results-section {
+            min-height: 400px;
+        }
+
+        .word-card {
+            background: var(--light-card);
+            border-radius: var(--border-radius);
+            padding: 2rem;
+            box-shadow: var(--shadow-soft);
+            margin-bottom: 1.5rem;
+            transition: all 0.3s ease;
+            opacity: 0;
+            transform: translateY(20px);
+            animation: fadeInUp 0.6s ease-out forwards;
+        }
+
+        body.dark .word-card {
+            background: var(--dark-card);
+        }
+
+        .word-card:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--shadow-medium);
+        }
+
+        .word-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 1.5rem;
+        }
+
+        .word-title {
+            font-family: 'Lora', serif;
+            font-size: 2.5rem;
+            font-weight: 600;
+            background: var(--primary-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+        }
+
+        .word-pronunciation {
+            font-size: 1.1rem;
+            color: #64748b;
+            font-style: italic;
+        }
+
+        body.dark .word-pronunciation {
+            color: #a0aec0;
+        }
+
+
+       .word-persianMeaning {
+            font-size: 1.4rem;
+            color: #64748b;
+            font-style: italic;
+        }
+
+        body.dark .word-persianMeaning {
+            color: #a0aec0;
+        }
+
+
+
+
+
+        .part-of-speech {
+            display: inline-block;
+            background: var(--primary-gradient);
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-bottom: 1rem;
+        }
+
+        .definitions {
+            margin-bottom: 1.5rem;
+        }
+
+        .definitions h4 {
+            font-size: 1.1rem;
+            margin-bottom: 0.75rem;
+            color: #4a5568;
+        }
+
+        body.dark .definitions h4 {
+            color: #a0aec0;
+        }
+
+        .definition-item {
+            margin-bottom: 0.5rem;
+            padding-left: 1rem;
+            position: relative;
+        }
+
+        .definition-item::before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: #667eea;
+            font-weight: bold;
+        }
+
+        .examples {
+            margin-top: 1rem;
+        }
+
+        .examples h4 {
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+            color: #4a5568;
+        }
+
+        body.dark .examples h4 {
+            color: #a0aec0;
+        }
+
+        .example-item {
+            font-style: italic;
+            color: #64748b;
+            margin-bottom: 0.25rem;
+            padding-left: 1rem;
+            position: relative;
+        }
+
+        body.dark .example-item {
+            color: #a0aec0;
+        }
+
+        .example-item::before {
+            content: "";
+            position: absolute;
+            left: 0;
+            color: #94a3b8;
+        }
+
+        .sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .stats-card {
+            background: var(--light-card);
+            border-radius: var(--border-radius);
+            padding: 1.5rem;
+            box-shadow: var(--shadow-soft);
+            text-align: center;
+        }
+
+        body.dark .stats-card {
+            background: var(--dark-card);
+        }
+
+        .stats-number {
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: var(--accent-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .stats-label {
+            font-size: 0.9rem;
+            opacity: 0.7;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .loading {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 2rem;
+        }
+
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid #e2e8f0;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        body.dark .spinner {
+            border: 4px solid #4a5568;
+            border-top: 4px solid #667eea;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @keyframes slideInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .toast {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--primary-gradient);
+            color: white;
+            padding: 1rem 1.5rem;
+            border-radius: 8px;
+            box-shadow: var(--shadow-medium);
+            z-index: 1001;
+            transform: translateX(100%);
+            transition: transform 0.3s ease;
+        }
+
+        .toast.show {
+            transform: translateX(0);
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .main-content {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+
+            .sidebar {
+                order: -1;
+            }
+
+            .word-title {
+                font-size: 2rem;
+            }
+
+            .word-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 1rem;
+            }
+
+            .nav-content {
+                padding: 0 15px;
+            }
+
+            .logo {
+                font-size: 1.5rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 0 15px;
+            }
+
+            .hero {
+                padding: 2rem 0 1rem;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .word-card {
+                padding: 1.5rem;
+            }
+        }
+    </style>
 </head>
 <body>
     <div class="background-decoration">
@@ -45,11 +609,291 @@
         </div>
     </div>
 
+    <script>
+     
    
-   
-  
-   
-   <script src="script.js"></script>
- 
+
+     let dictionaryData;
+
+fetch('dictionary.json')
+  .then(response => response.json())
+  .then(data => {
+    dictionaryData = data;
+    // You can call any function that depends on dictionaryData here
+  })
+  .catch(error => console.error('Error loading JSON:', error));
+
+    
+        let searchTimeout;
+        let focusedSuggestionIndex = -1;
+
+        // Initialize the application
+        document.addEventListener('DOMContentLoaded', function() {
+            initializeTheme();
+            setupEventListeners();
+        });
+
+        function initializeTheme() {
+            const savedTheme = localStorage.getItem('theme');
+            const body = document.body;
+            const themeToggle = document.querySelector('.theme-toggle i');
+            
+            if (savedTheme === 'dark') {
+                body.classList.add('dark');
+                themeToggle.className = 'fas fa-sun';
+            } else {
+                body.classList.remove('dark');
+                themeToggle.className = 'fas fa-moon';
+            }
+        }
+
+        function toggleTheme() {
+            const body = document.body;
+            const themeToggle = document.querySelector('.theme-toggle i');
+            
+            body.classList.toggle('dark');
+            
+            if (body.classList.contains('dark')) {
+                themeToggle.className = 'fas fa-sun';
+                localStorage.setItem('theme', 'dark');
+            } else {
+                themeToggle.className = 'fas fa-moon';
+                localStorage.setItem('theme', 'light');
+            }
+        }
+
+        function setupEventListeners() {
+            const searchInput = document.getElementById('searchInput');
+            
+            searchInput.addEventListener('input', function() {
+                clearTimeout(searchTimeout);
+                focusedSuggestionIndex = -1; // Reset focus on input change
+                searchTimeout = setTimeout(() => {
+                    handleSearch(this.value, false);
+                }, 300);
+            });
+
+            searchInput.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    if (focusedSuggestionIndex >= 0) {
+                        const suggestions = document.querySelectorAll('.suggestion-item');
+                        const selectedWord = dictionaryData.find(word => 
+                            word.word === suggestions[focusedSuggestionIndex].textContent
+                        );
+                        if (selectedWord) {
+                            selectWord(selectedWord);
+                        }
+                    } else {
+                        handleSearch(this.value, true);
+                    }
+                }
+            });
+
+            searchInput.addEventListener('keydown', function(e) {
+                const suggestions = document.querySelectorAll('.suggestion-item');
+                if (suggestions.length === 0) return;
+
+                if (e.key === 'ArrowDown') {
+                    e.preventDefault();
+                    if (focusedSuggestionIndex < suggestions.length - 1) {
+                        focusedSuggestionIndex++;
+                        updateSuggestionFocus(suggestions);
+                    }
+                } else if (e.key === 'ArrowUp') {
+                    e.preventDefault();
+                    if (focusedSuggestionIndex > 0) {
+                        focusedSuggestionIndex--;
+                        updateSuggestionFocus(suggestions);
+                    }
+                }
+            });
+
+            document.addEventListener('click', function(e) {
+                if (!e.target.closest('.search-container')) {
+                    closeSuggestions();
+                }
+            });
+        }
+
+        function updateSuggestionFocus(suggestions) {
+            suggestions.forEach((item, index) => {
+                item.classList.toggle('focused', index === focusedSuggestionIndex);
+                if (index === focusedSuggestionIndex) {
+                    item.scrollIntoView({ block: 'nearest' });
+                }
+            });
+        }
+
+        function handleSearch(query, showResults) {
+            const suggestions = document.getElementById('suggestions');
+            const resultsSection = document.getElementById('resultsSection');
+
+            if (!query.trim()) {
+                closeSuggestions();
+                resultsSection.innerHTML = '';
+                return;
+            }
+
+            const filteredWords = dictionaryData.filter(word => 
+                word.word.toLowerCase().startsWith(query.toLowerCase())
+            );
+
+            if (filteredWords.length > 0) {
+                showSuggestions(filteredWords.slice(0, 5), query);
+            } else {
+                closeSuggestions();
+            }
+
+            if (showResults) {
+                showLoading();
+                setTimeout(() => {
+                    if (filteredWords.length > 0) {
+                        displayResults(filteredWords);
+                    } else {
+                        showNoResults(query);
+                    }
+                }, 300);
+            } else {
+                resultsSection.innerHTML = '';
+            }
+        }
+
+        function showSuggestions(words, query) {
+            const suggestions = document.getElementById('suggestions');
+            suggestions.innerHTML = '';
+
+            words.forEach(word => {
+                const item = document.createElement('div');
+                item.className = 'suggestion-item';
+                item.textContent = word.word; // Display plain word without highlighting
+                item.addEventListener('click', () => selectWord(word));
+                suggestions.appendChild(item);
+            });
+
+            suggestions.classList.add('active');
+            focusedSuggestionIndex = -1; // Reset focus when new suggestions are shown
+        }
+
+        function selectWord(word) {
+            document.getElementById('searchInput').value = word.word;
+            closeSuggestions();
+            showLoading();
+            setTimeout(() => {
+                displayResults([word]);
+            }, 300);
+        }
+
+        function closeSuggestions() {
+            document.getElementById('suggestions').classList.remove('active');
+            focusedSuggestionIndex = -1; // Reset focus
+        }
+
+        function showLoading() {
+            const resultsSection = document.getElementById('resultsSection');
+            resultsSection.innerHTML = `
+                <div class="loading">
+                    <div class="spinner"></div>
+                </div>
+            `;
+        }
+
+        function showNoResults(query) {
+            const resultsSection = document.getElementById('resultsSection');
+            resultsSection.innerHTML = `
+                <div class="empty-state">
+                    <i class="fas fa-search"></i>
+                    <h3>No results found</h3>
+                    <p>No words found for "${query}". Try a different search term.</p>
+                </div>
+            `;
+        }
+
+        function displayResults(words) {
+            const resultsSection = document.getElementById('resultsSection');
+            resultsSection.innerHTML = '';
+
+            words.forEach((word, index) => {
+                const wordCard = createWordCard(word, dictionaryData.indexOf(word));
+                wordCard.style.animationDelay = `${index * 0.1}s`;
+                resultsSection.appendChild(wordCard);
+            });
+        }
+
+        function createWordCard(word, index) {
+            const card = document.createElement('div');
+            card.className = 'word-card';
+            
+            const definitionsList = word.definitions.map(def => 
+                `<div class="definition-item">${def}</div>`
+            ).join('');
+
+            const examplesList = word.examples ? word.examples.map(example => 
+                `<div class="example-item">${example}</div>`
+            ).join('') : '';
+
+            card.innerHTML = `
+                <div class="word-header">
+                    <div>
+                        <h2 class="word-title">${word.word}</h2>
+                         ${word.persianMeaning ? `<div class="word-persianMeaning">${word.persianMeaning}</div>` : ''}
+                        ${word.pronunciation ? `<div class="word-pronunciation">${word.pronunciation}</div>` : ''}
+                    </div>
+                </div>
+                
+                ${word.partOfSpeech ? `<span class="part-of-speech">${word.partOfSpeech}</span>` : ''}
+                
+                <div class="definitions">
+                    <h4>Definitions</h4>
+                    ${definitionsList}
+                </div>
+                
+                ${word.examples && word.examples.length > 0 ? `
+                    <div class="examples">
+                        <h4>Examples</h4>
+                        ${examplesList}
+                    </div>
+                ` : ''}
+            `;
+
+            return card;
+        }
+
+        function showToast(message, type = 'success') {
+            const existingToast = document.querySelector('.toast');
+            if (existingToast) {
+                existingToast.remove();
+            }
+
+            const toast = document.createElement('div');
+            toast.className = 'toast';
+            toast.innerHTML = `
+                <i class="fas fa-${type === 'success' ? 'check-circle' : 'exclamation-circle'}"></i>
+                <span style="margin-left: 8px;">${message}</span>
+            `;
+
+            if (type === 'error') {
+                toast.style.background = 'var(--secondary-gradient)';
+            }
+
+            document.body.appendChild(toast);
+
+            setTimeout(() => {
+                toast.classList.add('show');
+            }, 100);
+
+            setTimeout(() => {
+                toast.classList.remove('show');
+                setTimeout(() => {
+                    toast.remove();
+                }, 300);
+            }, 3000);
+        }
+
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                closeSuggestions();
+            }
+        });
+    </script>
 </body>
 </html>
