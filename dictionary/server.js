@@ -23,7 +23,7 @@ db.connect((err) => {
 app.get("/words", (req, res) => {
   const q = req.query.q || "";
 
-  // Use your actual table name and column names
+
   db.query(
     "SELECT nenglishword, npersianword FROM your_table_name WHERE nenglishword LIKE ? LIMIT 20",
     [q + "%"],
@@ -37,13 +37,13 @@ app.get("/words", (req, res) => {
         return res.json([]);
       }
 
-      // Format for your frontend - using your actual column names
+    
       const result = rows.map(r => ({
-        word: r.nenglishword,  // Use nenglishword column
-        persianMeaning: r.npersianword,  // Use npersianword column
+        word: r.nenglishword, 
+        persianMeaning: r.npersianword,
         pronunciation: "",
         partOfSpeech: "noun",
-        definitions: [r.npersianword],  // Use Persian meaning as definition
+        definitions: [r.npersianword],
         examples: []
       }));
 
@@ -52,7 +52,7 @@ app.get("/words", (req, res) => {
   );
 });
 
-// Root endpoint
+
 app.get("/", (req, res) => {
   res.json({ 
     message: "English-Persian Dictionary API",
