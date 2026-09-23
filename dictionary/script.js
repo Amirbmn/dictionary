@@ -3,7 +3,7 @@ let dictionaryData = [];
 let searchTimeout;
 let focusedSuggestionIndex = -1;
 
-// Initialize the application
+
 document.addEventListener('DOMContentLoaded', function() {
     initializeTheme();
     setupEventListeners();
@@ -51,7 +51,7 @@ function setupEventListeners() {
 
     searchInput.addEventListener('keypress', function(e) {
     if (e.key === 'Enter') {
-        // Close suggestions immediately when Enter is pressed
+    
         closeSuggestions();
         
         if (focusedSuggestionIndex >= 0) {
@@ -92,7 +92,7 @@ function setupEventListeners() {
     const searchContainer = document.querySelector('.search-container');
     const suggestions = document.getElementById('suggestions');
     
-    // Close suggestions if clicking outside the search container
+   
     if (!searchContainer.contains(e.target)) {
         closeSuggestions();
     }
@@ -109,7 +109,7 @@ function updateSuggestionFocus(suggestions) {
 }
 
 async function handleSearch(query, showResults) {
-    // Clear previous timeout
+
     clearTimeout(searchTimeout);
     
     if (!query.trim()) {
@@ -120,18 +120,18 @@ async function handleSearch(query, showResults) {
     
     searchTimeout = setTimeout(async () => {
         try {
-            // Fetch from your server
+     
             const response = await fetch(`http://localhost:3000/words?q=${encodeURIComponent(query)}`);
             const data = await response.json();
             
-            // Store in global variable for suggestions
+      
             dictionaryData = data;
             
-            // Only show suggestions if NOT showing results (typing mode)
+ 
             if (!showResults && data.length > 0) {
                 showSuggestions(data.slice(0, 5), query);
             } else {
-                // When showing results, close suggestions
+   
                 closeSuggestions();
             }
             
@@ -152,7 +152,7 @@ async function handleSearch(query, showResults) {
     }, 300);
 
 
-    // Clear previous timeout
+
     clearTimeout(searchTimeout);
     
     if (!query.trim()) {
@@ -163,14 +163,13 @@ async function handleSearch(query, showResults) {
     
     searchTimeout = setTimeout(async () => {
         try {
-            // Fetch from your server
+     
             const response = await fetch(`http://localhost:3000/words?q=${encodeURIComponent(query)}`);
             const data = await response.json();
             
-            // Store in global variable for suggestions
+       
             dictionaryData = data;
             
-            // Show suggestions
             if (data.length > 0) {
                 showSuggestions(data.slice(0, 5), query);
             } else {
@@ -212,16 +211,16 @@ function showSuggestions(words, query) {
 
 function selectWord(word) {
     document.getElementById('searchInput').value = word.word;
-    closeSuggestions(); // Close suggestions when a word is selected
+    closeSuggestions(); 
     showLoading();
     
-    // Fetch the word details again to ensure we have fresh data
+
     setTimeout(async () => {
         try {
             const response = await fetch(`http://localhost:3000/words?q=${encodeURIComponent(word.word)}`);
             const data = await response.json();
             
-            // Find the exact word match
+  
             const exactMatch = data.find(w => w.word.toLowerCase() === word.word.toLowerCase());
             if (exactMatch) {
                 displayResults([exactMatch]);
@@ -240,13 +239,13 @@ function selectWord(word) {
     closeSuggestions();
     showLoading();
     
-    // Fetch the word details again to ensure we have fresh data
+   
     setTimeout(async () => {
         try {
             const response = await fetch(`http://localhost:3000/words?q=${encodeURIComponent(word.word)}`);
             const data = await response.json();
             
-            // Find the exact word match
+    
             const exactMatch = data.find(w => w.word.toLowerCase() === word.word.toLowerCase());
             if (exactMatch) {
                 displayResults([exactMatch]);
